@@ -1,0 +1,1548 @@
+[
+  {
+    "grn_id": "GRN-7701",
+    "po_id": "PO-4101",
+    "date": "2026-08-04",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 1570,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7702",
+    "po_id": "PO-4102",
+    "date": "2026-08-02",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 5600,
+        "uom": "PCS"
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "qty_received": 3100,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7703",
+    "po_id": "PO-4103",
+    "date": "2026-08-05",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "qty_received": 60,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PAL-HDPE",
+        "qty_received": 60,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7704",
+    "po_id": "PO-4104",
+    "date": "2026-08-05",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 88,
+        "uom": "PLT-WK"
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "qty_received": 35,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7705",
+    "po_id": "PO-4105",
+    "date": "2026-08-06",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "qty_received": 7300,
+        "uom": "KG"
+      },
+      {
+        "sku": "RICE-SONA",
+        "qty_received": 2100,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7706",
+    "po_id": "PO-4106",
+    "date": "2026-08-03",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "qty_received": 4600,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7707",
+    "po_id": "PO-4107",
+    "date": "2026-08-03",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "qty_received": 7000,
+        "uom": "KG"
+      },
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 130000,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7708",
+    "po_id": "PO-4108",
+    "date": "2026-08-04",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "qty_received": 29,
+        "uom": "SEAT"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7709",
+    "po_id": "PO-4109",
+    "date": "2026-08-03",
+    "lines": [
+      {
+        "sku": "CAN-20L",
+        "qty_received": 1080,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7710",
+    "po_id": "PO-4110",
+    "date": "2026-08-07",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "qty_received": 5,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7711",
+    "po_id": "PO-4111",
+    "date": "2026-08-05",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "qty_received": 67700,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PET-PRF-28",
+        "qty_received": 114300,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7712",
+    "po_id": "PO-4112",
+    "date": "2026-08-04",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "qty_received": 1,
+        "uom": "MONTH"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7713",
+    "po_id": "PO-4113",
+    "date": "2026-08-09",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 5400,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PART-DIV",
+        "qty_received": 5200,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7714",
+    "po_id": "PO-4114",
+    "date": "2026-08-12",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 85,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7715",
+    "po_id": "PO-4115",
+    "date": "2026-08-10",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "qty_received": 6400,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7716",
+    "po_id": "PO-4116",
+    "date": "2026-08-13",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "qty_received": 7100,
+        "uom": "KG"
+      },
+      {
+        "sku": "TURM-FNG",
+        "qty_received": 8700,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7717",
+    "po_id": "PO-4117",
+    "date": "2026-08-11",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "qty_received": 5100,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7718",
+    "po_id": "PO-4118",
+    "date": "2026-08-10",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "qty_received": 10,
+        "uom": "STAFF-MO"
+      },
+      {
+        "sku": "SEC-GUARD",
+        "qty_received": 14,
+        "uom": "STAFF-MO"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7719",
+    "po_id": "PO-4119",
+    "date": "2026-08-16",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 5700,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PART-DIV",
+        "qty_received": 3500,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7720",
+    "po_id": "PO-4120",
+    "date": "2026-08-17",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "qty_received": 63,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7721",
+    "po_id": "PO-4121",
+    "date": "2026-08-17",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 80,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7722",
+    "po_id": "PO-4122",
+    "date": "2026-08-20",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "qty_received": 7300,
+        "uom": "KG"
+      },
+      {
+        "sku": "DAL-TOOR",
+        "qty_received": 4100,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7723",
+    "po_id": "PO-4123",
+    "date": "2026-08-18",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "qty_received": 3500,
+        "uom": "KG"
+      },
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 118900,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7724",
+    "po_id": "PO-4124",
+    "date": "2026-08-17",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "qty_received": 270,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7725",
+    "po_id": "PO-4125",
+    "date": "2026-08-17",
+    "lines": [
+      {
+        "sku": "AMC-ELEC",
+        "qty_received": 1,
+        "uom": "MONTH"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7726",
+    "po_id": "PO-4126",
+    "date": "2026-08-17",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "qty_received": 103600,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7727",
+    "po_id": "PO-4127",
+    "date": "2026-08-23",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 4100,
+        "uom": "PCS"
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "qty_received": 2400,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7728",
+    "po_id": "PO-4128",
+    "date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "qty_received": 1610,
+        "uom": "PCS"
+      },
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 1300,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7729",
+    "po_id": "PO-4129",
+    "date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 88,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7730",
+    "po_id": "PO-4130",
+    "date": "2026-08-26",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "qty_received": 5100,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7731",
+    "po_id": "PO-4131",
+    "date": "2026-08-24",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "qty_received": 2300,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7732",
+    "po_id": "PO-4132",
+    "date": "2026-08-24",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "qty_received": 3300,
+        "uom": "KG"
+      },
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 165100,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7733",
+    "po_id": "PO-4133",
+    "date": "2026-08-27",
+    "lines": [
+      {
+        "sku": "SEC-GUARD",
+        "qty_received": 10,
+        "uom": "STAFF-MO"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7734",
+    "po_id": "PO-4134",
+    "date": "2026-08-31",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "qty_received": 2100,
+        "uom": "PCS"
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "qty_received": 2400,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7735",
+    "po_id": "PO-4135",
+    "date": "2026-09-03",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "qty_received": 51,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7736",
+    "po_id": "PO-4136",
+    "date": "2026-09-01",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 43,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7737",
+    "po_id": "PO-4137",
+    "date": "2026-09-02",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "qty_received": 6200,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7738",
+    "po_id": "PO-4138",
+    "date": "2026-09-02",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "qty_received": 7000,
+        "uom": "KG"
+      },
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 142400,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7739",
+    "po_id": "PO-4139",
+    "date": "2026-09-01",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "qty_received": 38,
+        "uom": "SEAT"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7740",
+    "po_id": "PO-4140",
+    "date": "2026-08-30",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "qty_received": 750,
+        "uom": "PCS"
+      },
+      {
+        "sku": "CAN-20L",
+        "qty_received": 740,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7741",
+    "po_id": "PO-4141",
+    "date": "2026-09-01",
+    "lines": [
+      {
+        "sku": "AMC-ELEC",
+        "qty_received": 1,
+        "uom": "MONTH"
+      },
+      {
+        "sku": "MCB-REPL",
+        "qty_received": 13,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7742",
+    "po_id": "PO-4142",
+    "date": "2026-09-04",
+    "lines": [
+      {
+        "sku": "PET-PRF-28",
+        "qty_received": 53600,
+        "uom": "PCS"
+      },
+      {
+        "sku": "CAP-28",
+        "qty_received": 57600,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7743",
+    "po_id": "PO-4143",
+    "date": "2026-09-04",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "qty_received": 1,
+        "uom": "MONTH"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7744",
+    "po_id": "PO-4144",
+    "date": "2026-09-06",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 4900,
+        "uom": "PCS"
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "qty_received": 4800,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7745",
+    "po_id": "PO-4145",
+    "date": "2026-09-09",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "qty_received": 82,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PAL-WOOD",
+        "qty_received": 110,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7746",
+    "po_id": "PO-4146",
+    "date": "2026-09-10",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 29,
+        "uom": "PLT-WK"
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "qty_received": 39,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7747",
+    "po_id": "PO-4147",
+    "date": "2026-09-10",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "qty_received": 2500,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7748",
+    "po_id": "PO-4148",
+    "date": "2026-09-09",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "qty_received": 7000,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7749",
+    "po_id": "PO-4149",
+    "date": "2026-09-09",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 102600,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7750",
+    "po_id": "PO-4150",
+    "date": "2026-09-10",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "qty_received": 11,
+        "uom": "STAFF-MO"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7751",
+    "po_id": "PO-4151",
+    "date": "2026-09-13",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 3900,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PART-DIV",
+        "qty_received": 1120,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7752",
+    "po_id": "PO-4152",
+    "date": "2026-09-15",
+    "lines": [
+      {
+        "sku": "BOX-3PLY-M",
+        "qty_received": 2600,
+        "uom": "PCS"
+      },
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 990,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7753",
+    "po_id": "PO-4153",
+    "date": "2026-09-15",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "qty_received": 87,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PAL-HDPE",
+        "qty_received": 54,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7754",
+    "po_id": "PO-4154",
+    "date": "2026-09-18",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 75,
+        "uom": "PLT-WK"
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "qty_received": 64,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7755",
+    "po_id": "PO-4155",
+    "date": "2026-09-17",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "qty_received": 8900,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7756",
+    "po_id": "PO-4156",
+    "date": "2026-09-16",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 155500,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7757",
+    "po_id": "PO-4157",
+    "date": "2026-09-15",
+    "lines": [
+      {
+        "sku": "CAN-20L",
+        "qty_received": 1340,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7758",
+    "po_id": "PO-4158",
+    "date": "2026-09-17",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "qty_received": 8,
+        "uom": "PCS"
+      },
+      {
+        "sku": "AMC-ELEC",
+        "qty_received": 1,
+        "uom": "MONTH"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7759",
+    "po_id": "PO-4159",
+    "date": "2026-09-15",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "qty_received": 79800,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PET-PRF-28",
+        "qty_received": 77600,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7760",
+    "po_id": "PO-4160",
+    "date": "2026-09-23",
+    "lines": [
+      {
+        "sku": "BOX-3PLY-M",
+        "qty_received": 4400,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PART-DIV",
+        "qty_received": 2600,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7761",
+    "po_id": "PO-4161",
+    "date": "2026-09-22",
+    "lines": [
+      {
+        "sku": "CS-FROZEN-WK",
+        "qty_received": 85,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7762",
+    "po_id": "PO-4162",
+    "date": "2026-09-22",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "qty_received": 2700,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7763",
+    "po_id": "PO-4163",
+    "date": "2026-09-25",
+    "lines": [
+      {
+        "sku": "TURM-FNG",
+        "qty_received": 4900,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7764",
+    "po_id": "PO-4164",
+    "date": "2026-09-23",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "qty_received": 2700,
+        "uom": "KG"
+      },
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 61500,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7765",
+    "po_id": "PO-4165",
+    "date": "2026-09-24",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "qty_received": 14,
+        "uom": "STAFF-MO"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7766",
+    "po_id": "PO-4166",
+    "date": "2026-09-30",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 4500,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7767",
+    "po_id": "PO-4167",
+    "date": "2026-10-01",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "qty_received": 220,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PAL-HDPE",
+        "qty_received": 97,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7768",
+    "po_id": "PO-4168",
+    "date": "2026-10-01",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 86,
+        "uom": "PLT-WK"
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "qty_received": 82,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7769",
+    "po_id": "PO-4169",
+    "date": "2026-09-29",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "qty_received": 4300,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7770",
+    "po_id": "PO-4170",
+    "date": "2026-09-28",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 160400,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7771",
+    "po_id": "PO-4171",
+    "date": "2026-09-29",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "qty_received": 37,
+        "uom": "SEAT"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7772",
+    "po_id": "PO-4172",
+    "date": "2026-09-30",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "qty_received": 630,
+        "uom": "PCS"
+      },
+      {
+        "sku": "CAN-20L",
+        "qty_received": 1100,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7773",
+    "po_id": "PO-4173",
+    "date": "2026-09-28",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "qty_received": 15,
+        "uom": "PCS"
+      },
+      {
+        "sku": "AMC-ELEC",
+        "qty_received": 1,
+        "uom": "MONTH"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7774",
+    "po_id": "PO-4174",
+    "date": "2026-10-01",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "qty_received": 68800,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7775",
+    "po_id": "PO-4175",
+    "date": "2026-10-01",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "qty_received": 1,
+        "uom": "MONTH"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7776",
+    "po_id": "PO-4176",
+    "date": "2026-10-06",
+    "lines": [
+      {
+        "sku": "BOX-3PLY-M",
+        "qty_received": 1840,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7777",
+    "po_id": "PO-4177",
+    "date": "2026-10-06",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 4300,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7778",
+    "po_id": "PO-4178",
+    "date": "2026-10-07",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "qty_received": 81,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PAL-WOOD",
+        "qty_received": 170,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7779",
+    "po_id": "PO-4179",
+    "date": "2026-10-08",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 22,
+        "uom": "PLT-WK"
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "qty_received": 89,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7780",
+    "po_id": "PO-4180",
+    "date": "2026-10-04",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "qty_received": 3500,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7781",
+    "po_id": "PO-4181",
+    "date": "2026-10-06",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "qty_received": 5400,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7782",
+    "po_id": "PO-4182",
+    "date": "2026-10-07",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "qty_received": 6500,
+        "uom": "KG"
+      },
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 90000,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7783",
+    "po_id": "PO-4183",
+    "date": "2026-10-07",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "qty_received": 10,
+        "uom": "STAFF-MO"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7784",
+    "po_id": "PO-4184",
+    "date": "2026-10-11",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "qty_received": 5900,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7785",
+    "po_id": "PO-4185",
+    "date": "2026-10-15",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "qty_received": 50,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7786",
+    "po_id": "PO-4186",
+    "date": "2026-10-14",
+    "lines": [
+      {
+        "sku": "CS-FROZEN-WK",
+        "qty_received": 82,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7787",
+    "po_id": "PO-4187",
+    "date": "2026-10-12",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "qty_received": 6500,
+        "uom": "KG"
+      },
+      {
+        "sku": "DAL-TOOR",
+        "qty_received": 8100,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7788",
+    "po_id": "PO-4188",
+    "date": "2026-10-14",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "qty_received": 8500,
+        "uom": "KG"
+      },
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 124400,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7789",
+    "po_id": "PO-4189",
+    "date": "2026-10-14",
+    "lines": [
+      {
+        "sku": "CAN-20L",
+        "qty_received": 1310,
+        "uom": "PCS"
+      },
+      {
+        "sku": "DRUM-50L",
+        "qty_received": 530,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7790",
+    "po_id": "PO-4190",
+    "date": "2026-10-13",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "qty_received": 12,
+        "uom": "PCS"
+      },
+      {
+        "sku": "AMC-ELEC",
+        "qty_received": 1,
+        "uom": "MONTH"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7791",
+    "po_id": "PO-4191",
+    "date": "2026-10-16",
+    "lines": [
+      {
+        "sku": "PET-PRF-28",
+        "qty_received": 71600,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7792",
+    "po_id": "PO-4192",
+    "date": "2026-10-20",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "qty_received": 4700,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7793",
+    "po_id": "PO-4193",
+    "date": "2026-10-19",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 51,
+        "uom": "PLT-WK"
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "qty_received": 59,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7794",
+    "po_id": "PO-4194",
+    "date": "2026-10-22",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "qty_received": 4400,
+        "uom": "KG"
+      },
+      {
+        "sku": "RICE-SONA",
+        "qty_received": 7300,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7795",
+    "po_id": "PO-4195",
+    "date": "2026-10-20",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "qty_received": 4100,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7796",
+    "po_id": "PO-4196",
+    "date": "2026-10-19",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 186900,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7797",
+    "po_id": "PO-4197",
+    "date": "2026-10-21",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "qty_received": 10,
+        "uom": "STAFF-MO"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7798",
+    "po_id": "PO-4198",
+    "date": "2026-10-25",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 3000,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PART-DIV",
+        "qty_received": 1170,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7799",
+    "po_id": "PO-4199",
+    "date": "2026-10-25",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "qty_received": 5500,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PART-DIV",
+        "qty_received": 3100,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7800",
+    "po_id": "PO-4200",
+    "date": "2026-10-27",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "qty_received": 54,
+        "uom": "PCS"
+      },
+      {
+        "sku": "PAL-WOOD",
+        "qty_received": 118,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7801",
+    "po_id": "PO-4201",
+    "date": "2026-10-27",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "qty_received": 35,
+        "uom": "PLT-WK"
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "qty_received": 73,
+        "uom": "PLT-WK"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7802",
+    "po_id": "PO-4202",
+    "date": "2026-10-28",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "qty_received": 8500,
+        "uom": "KG"
+      },
+      {
+        "sku": "RICE-SONA",
+        "qty_received": 6300,
+        "uom": "KG"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7803",
+    "po_id": "PO-4203",
+    "date": "2026-10-29",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "qty_received": 114500,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7804",
+    "po_id": "PO-4204",
+    "date": "2026-10-27",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "qty_received": 26,
+        "uom": "SEAT"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7805",
+    "po_id": "PO-4205",
+    "date": "2026-10-26",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "qty_received": 200,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7806",
+    "po_id": "PO-4206",
+    "date": "2026-10-30",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "qty_received": 11,
+        "uom": "PCS"
+      },
+      {
+        "sku": "AMC-ELEC",
+        "qty_received": 1,
+        "uom": "MONTH"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7807",
+    "po_id": "PO-4207",
+    "date": "2026-10-29",
+    "lines": [
+      {
+        "sku": "PET-PRF-28",
+        "qty_received": 74700,
+        "uom": "PCS"
+      }
+    ]
+  },
+  {
+    "grn_id": "GRN-7808",
+    "po_id": "PO-4208",
+    "date": "2026-10-30",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "qty_received": 1,
+        "uom": "MONTH"
+      }
+    ]
+  }
+]

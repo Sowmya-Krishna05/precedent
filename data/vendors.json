@@ -1,0 +1,134 @@
+[
+  {
+    "id": "V001",
+    "name": "Shree Balaji Packaging",
+    "city": "Medchal",
+    "state_code": "36",
+    "category": "Corrugated boxes & cartons",
+    "gst_rate": 18,
+    "prefix": "SBP/26-27/",
+    "bank": "HDFC ••••4417",
+    "terms": "Net 30"
+  },
+  {
+    "id": "V002",
+    "name": "Godavari Logistics",
+    "city": "Secunderabad",
+    "state_code": "36",
+    "category": "Pallets & material handling",
+    "gst_rate": 18,
+    "prefix": "GL-INV-",
+    "bank": "ICICI ••••2093",
+    "terms": "Net 30"
+  },
+  {
+    "id": "V003",
+    "name": "Krishna Cold Chain Pvt. Ltd.",
+    "city": "Shamshabad",
+    "state_code": "36",
+    "category": "Cold storage",
+    "gst_rate": 18,
+    "prefix": "KCC/",
+    "bank": "Axis ••••7781",
+    "terms": "Net 15"
+  },
+  {
+    "id": "V004",
+    "name": "Nizam Agro Commodities",
+    "city": "Nizamabad",
+    "state_code": "36",
+    "category": "Rice, dal & grains",
+    "gst_rate": 5,
+    "prefix": "NAC-",
+    "bank": "SBI ••••3120",
+    "terms": "Net 21"
+  },
+  {
+    "id": "V005",
+    "name": "Guntur Spice Traders",
+    "city": "Guntur",
+    "state_code": "37",
+    "category": "Chilli & spices",
+    "gst_rate": 5,
+    "prefix": "GST-",
+    "bank": "Andhra Bank ••••5562",
+    "terms": "Net 30"
+  },
+  {
+    "id": "V006",
+    "name": "Deccan Print & Labels",
+    "city": "Kukatpally",
+    "state_code": "36",
+    "category": "Labels & printed film",
+    "gst_rate": 18,
+    "prefix": "DPL/",
+    "bank": "Kotak ••••8804",
+    "terms": "Net 30"
+  },
+  {
+    "id": "V007",
+    "name": "CloudNine Retail SaaS",
+    "city": "Bengaluru",
+    "state_code": "29",
+    "category": "Distributor management software",
+    "gst_rate": 18,
+    "prefix": "C9-",
+    "bank": "Citi ••••0071",
+    "terms": "Net 15"
+  },
+  {
+    "id": "V008",
+    "name": "Vizag Industrial Drums",
+    "city": "Visakhapatnam",
+    "state_code": "37",
+    "category": "HDPE drums & cans",
+    "gst_rate": 18,
+    "prefix": "VID/",
+    "bank": "Union ••••6230",
+    "terms": "2/10 Net 45"
+  },
+  {
+    "id": "V009",
+    "name": "Telangana Electricals",
+    "city": "Uppal",
+    "state_code": "36",
+    "category": "Electrical maintenance",
+    "gst_rate": 18,
+    "prefix": "TE-",
+    "bank": "Canara ••••1188",
+    "terms": "Net 30"
+  },
+  {
+    "id": "V010",
+    "name": "Sri Lakshmi Facility Services",
+    "city": "Gachibowli",
+    "state_code": "36",
+    "category": "Housekeeping & security",
+    "gst_rate": 18,
+    "prefix": "SLFS/",
+    "bank": "IDBI ••••4402",
+    "terms": "Net 30"
+  },
+  {
+    "id": "V011",
+    "name": "Amaravati Polymers",
+    "city": "Vijayawada",
+    "state_code": "37",
+    "category": "PET preforms & caps",
+    "gst_rate": 18,
+    "prefix": "AP-",
+    "bank": "Indian Bank ••••9017",
+    "terms": "Net 30"
+  },
+  {
+    "id": "V012",
+    "name": "Charminar Pest Control",
+    "city": "Old City",
+    "state_code": "36",
+    "category": "Pest control (FSSAI audit)",
+    "gst_rate": 18,
+    "prefix": "CPC",
+    "bank": "Federal ••••2765",
+    "terms": "Net 30"
+  }
+]

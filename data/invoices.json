@@ -1,0 +1,4767 @@
+[
+  {
+    "invoice_id": "INV-26002",
+    "vendor_invoice_no": "SBP/26-27/0856",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4102",
+    "invoice_date": "2026-08-04",
+    "received_at": "2026-08-04",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 5600,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 3100,
+        "uom": "PCS",
+        "unit_price": 14.8
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 222280.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 40010.4,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 262290.4,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26006",
+    "vendor_invoice_no": "GST-0456",
+    "vendor_id": "V005",
+    "vendor_name": "Guntur Spice Traders",
+    "po_id": "PO-4106",
+    "invoice_date": "2026-08-03",
+    "received_at": "2026-08-04",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 4600,
+        "uom": "KG",
+        "unit_price": 212.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 975200.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 48760.0,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 1023960.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Andhra Bank ••••5562",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "tax_mismatch",
+      "action": "return_to_vendor",
+      "decided_by": "Sneha Kulkarni (Indirect Tax)",
+      "note": "Supplier is in Andhra Pradesh (37) and we are in Telangana (36): this is an inter-state supply and must carry IGST, not CGST+SGST. ITC would be blocked. Returned to vendor for a corrected invoice."
+    }
+  },
+  {
+    "invoice_id": "INV-26004",
+    "vendor_invoice_no": "KCC/0229",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4104",
+    "invoice_date": "2026-08-05",
+    "received_at": "2026-08-05",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 88,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 35,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 88170.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 15870.6,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 104040.6,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26012",
+    "vendor_invoice_no": "CPC0810",
+    "vendor_id": "V012",
+    "vendor_name": "Charminar Pest Control",
+    "po_id": "PO-4112",
+    "invoice_date": "2026-08-04",
+    "received_at": "2026-08-05",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "description": "Monthly pest management (plant)",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 26500.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 26500.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 4770.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 31270.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Federal ••••2765",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26007",
+    "vendor_invoice_no": "DPL/0434",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4107",
+    "invoice_date": "2026-08-04",
+    "received_at": "2026-08-06",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 7000,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 130000,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1995600.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 359208.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 2354808.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26008",
+    "vendor_invoice_no": "C9-0347",
+    "vendor_id": "V007",
+    "vendor_name": "CloudNine Retail SaaS",
+    "po_id": "PO-4108",
+    "invoice_date": "2026-08-04",
+    "received_at": "2026-08-06",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "description": "DMS user seat (monthly)",
+        "qty": 29,
+        "uom": "SEAT",
+        "unit_price": 1450.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 42050.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 7569.0,
+      "place_of_supply": "36",
+      "vendor_state": "29"
+    },
+    "total": 49619.0,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Citi ••••0071",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26009",
+    "vendor_invoice_no": "VID/0307",
+    "vendor_id": "V008",
+    "vendor_name": "Vizag Industrial Drums",
+    "po_id": "PO-4109",
+    "invoice_date": "2026-08-04",
+    "received_at": "2026-08-06",
+    "lines": [
+      {
+        "sku": "CAN-20L",
+        "description": "Jerry can 20L",
+        "qty": 1080,
+        "uom": "PCS",
+        "unit_price": 188.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 203040.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 36547.2,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 239587.2,
+    "currency": "INR",
+    "payment_terms": "2/10 Net 45",
+    "bank_account": "Union ••••6230",
+    "remarks": "2% cash discount if paid within 10 days",
+    "_truth": {
+      "exception_type": "payment_terms",
+      "action": "approve_pay_early",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Vizag offers 2/10 Net 45. 2% for paying 35 days early is ~21% annualised; we have surplus cash, so schedule payment inside 10 days and take the discount."
+    }
+  },
+  {
+    "invoice_id": "INV-26011",
+    "vendor_invoice_no": "AP-0295",
+    "vendor_id": "V011",
+    "vendor_name": "Amaravati Polymers",
+    "po_id": "PO-4111",
+    "invoice_date": "2026-08-05",
+    "received_at": "2026-08-06",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "description": "28mm flip cap",
+        "qty": 67700,
+        "uom": "PCS",
+        "unit_price": 0.61
+      },
+      {
+        "sku": "PET-PRF-28",
+        "description": "PET preform 28mm",
+        "qty": 114300,
+        "uom": "PCS",
+        "unit_price": 2.35
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 309902.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 55782.36,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 365684.36,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Indian Bank ••••9017",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26003",
+    "vendor_invoice_no": "GL-INV-0315",
+    "vendor_id": "V002",
+    "vendor_name": "Godavari Logistics",
+    "po_id": "PO-4103",
+    "invoice_date": "2026-08-06",
+    "received_at": "2026-08-07",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 140,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      },
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 140,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 584500.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 105210.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 689710.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "ICICI ••••2093",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "quantity_mismatch",
+      "action": "hold_partial_receipt",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Godavari bills the full PO quantity on the first dispatch; only 43% received so far. Hold until the balance GRN is posted, then release."
+    }
+  },
+  {
+    "invoice_id": "INV-26010",
+    "vendor_invoice_no": "TE-0894",
+    "vendor_id": "V009",
+    "vendor_name": "Telangana Electricals",
+    "po_id": "PO-4110",
+    "invoice_date": "2026-08-07",
+    "received_at": "2026-08-07",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 5,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 8250.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 1485.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 9735.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Canara ••••1188",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26001",
+    "vendor_invoice_no": "SBP/26-27/0855",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4101",
+    "invoice_date": "2026-08-06",
+    "received_at": "2026-08-08",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 1570,
+        "uom": "PCS",
+        "unit_price": 32.09
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 50381.3,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 9068.63,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 59449.93,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "1.86% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26005",
+    "vendor_invoice_no": "NAC-0483",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4105",
+    "invoice_date": "2026-08-07",
+    "received_at": "2026-08-08",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 73.0,
+        "uom": "QTL",
+        "unit_price": 11800.0
+      },
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 21.0,
+        "uom": "QTL",
+        "unit_price": 4600.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 958000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 47900.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 1005900.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "uom_mismatch",
+      "action": "approve_uom_normalized",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Nizam Agro always invoices in quintals (1 QTL = 100 KG) against KG POs. Value matches after conversion; approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26018",
+    "vendor_invoice_no": "SLFS/0763",
+    "vendor_id": "V010",
+    "vendor_name": "Sri Lakshmi Facility Services",
+    "po_id": "PO-4118",
+    "invoice_date": "2026-08-10",
+    "received_at": "2026-08-10",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "description": "Housekeeping staff-month",
+        "qty": 10,
+        "uom": "STAFF-MO",
+        "unit_price": 18500.0
+      },
+      {
+        "sku": "SEC-GUARD",
+        "description": "Security guard-month",
+        "qty": 14,
+        "uom": "STAFF-MO",
+        "unit_price": 21000.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 479000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 86220.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 565220.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "IDBI ••••4402",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26013",
+    "vendor_invoice_no": "SBP/26-27/0861",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4113",
+    "invoice_date": "2026-08-11",
+    "received_at": "2026-08-12",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 5400,
+        "uom": "PCS",
+        "unit_price": 32.12
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 5200,
+        "uom": "PCS",
+        "unit_price": 6.32
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 206312.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 37136.16,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 243448.16,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "1.96% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26014",
+    "vendor_invoice_no": "KCC/0230",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4114",
+    "invoice_date": "2026-08-12",
+    "received_at": "2026-08-12",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 85,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading & handling charges",
+        "amount": 4800
+      }
+    ],
+    "subtotal": 59200.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 10656.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 69856.0,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "approve",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "Loading/handling charge of Rs 4,800 is standard for cold-storage pulls; we approve up to Rs 5,000 without a PO amendment."
+    }
+  },
+  {
+    "invoice_id": "INV-26015",
+    "vendor_invoice_no": "NAC-0487",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4115",
+    "invoice_date": "2026-08-11",
+    "received_at": "2026-08-13",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 64.0,
+        "uom": "QTL",
+        "unit_price": 11800.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 755200.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 37760.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 792960.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "uom_mismatch",
+      "action": "approve_uom_normalized",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Nizam Agro always invoices in quintals (1 QTL = 100 KG) against KG POs. Value matches after conversion; approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26017",
+    "vendor_invoice_no": "DPL/0436",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4117",
+    "invoice_date": "2026-08-12",
+    "received_at": "2026-08-13",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 5100,
+        "uom": "KG",
+        "unit_price": 268.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1366800.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 246024.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 1612824.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26016",
+    "vendor_invoice_no": "GST-0459",
+    "vendor_id": "V005",
+    "vendor_name": "Guntur Spice Traders",
+    "po_id": "PO-4116",
+    "invoice_date": "2026-08-13",
+    "received_at": "2026-08-15",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 7100,
+        "uom": "KG",
+        "unit_price": 212.0
+      },
+      {
+        "sku": "TURM-FNG",
+        "description": "Turmeric fingers",
+        "qty": 8700,
+        "uom": "KG",
+        "unit_price": 136.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 2688400.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 134420.0,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 2822820.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Andhra Bank ••••5562",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "tax_mismatch",
+      "action": "return_to_vendor",
+      "decided_by": "Sneha Kulkarni (Indirect Tax)",
+      "note": "Supplier is in Andhra Pradesh (37) and we are in Telangana (36): this is an inter-state supply and must carry IGST, not CGST+SGST. ITC would be blocked. Returned to vendor for a corrected invoice."
+    }
+  },
+  {
+    "invoice_id": "INV-26021",
+    "vendor_invoice_no": "KCC/0232",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4121",
+    "invoice_date": "2026-08-17",
+    "received_at": "2026-08-18",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 80,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 51200.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 9216.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 60416.0,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26026",
+    "vendor_invoice_no": "TE-0901",
+    "vendor_id": "V009",
+    "vendor_name": "Telangana Electricals",
+    "po_id": "PO-4125",
+    "invoice_date": "2026-08-17",
+    "received_at": "2026-08-18",
+    "lines": [
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 42000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 7560.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 49560.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Canara ••••1188",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26019",
+    "vendor_invoice_no": "SBP/26-27/0864",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4119",
+    "invoice_date": "2026-08-18",
+    "received_at": "2026-08-19",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 5700,
+        "uom": "PCS",
+        "unit_price": 31.93
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 3500,
+        "uom": "PCS",
+        "unit_price": 6.28
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 203981.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 36716.58,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 240697.58,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "1.35% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26020",
+    "vendor_invoice_no": "GL-INV-0321",
+    "vendor_id": "V002",
+    "vendor_name": "Godavari Logistics",
+    "po_id": "PO-4120",
+    "invoice_date": "2026-08-18",
+    "received_at": "2026-08-19",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 150,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 427500.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 76950.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 504450.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "ICICI ••••2093",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "quantity_mismatch",
+      "action": "hold_partial_receipt",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Godavari bills the full PO quantity on the first dispatch; only 42% received so far. Hold until the balance GRN is posted, then release."
+    }
+  },
+  {
+    "invoice_id": "INV-26027",
+    "vendor_invoice_no": "AP-0297",
+    "vendor_id": "V011",
+    "vendor_name": "Amaravati Polymers",
+    "po_id": "PO-4126",
+    "invoice_date": "2026-08-17",
+    "received_at": "2026-08-19",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "description": "28mm flip cap",
+        "qty": 103600,
+        "uom": "PCS",
+        "unit_price": 0.61
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 63196.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 11375.28,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 74571.28,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Indian Bank ••••9017",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26023",
+    "vendor_invoice_no": "DPL/0437",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4123",
+    "invoice_date": "2026-08-19",
+    "received_at": "2026-08-20",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 3500,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 118900,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1047388.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 188529.84,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 1235917.84,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26025",
+    "vendor_invoice_no": "VID/0313",
+    "vendor_id": "V008",
+    "vendor_name": "Vizag Industrial Drums",
+    "po_id": "PO-4124",
+    "invoice_date": "2026-08-18",
+    "received_at": "2026-08-20",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "description": "HDPE drum 50L",
+        "qty": 270,
+        "uom": "PCS",
+        "unit_price": 545.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 147150.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 26487.0,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 173637.0,
+    "currency": "INR",
+    "payment_terms": "2/10 Net 45",
+    "bank_account": "Union ••••6230",
+    "remarks": "2% cash discount if paid within 10 days",
+    "_truth": {
+      "exception_type": "payment_terms",
+      "action": "approve_pay_early",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Vizag offers 2/10 Net 45. 2% for paying 35 days early is ~21% annualised; we have surplus cash, so schedule payment inside 10 days and take the discount."
+    }
+  },
+  {
+    "invoice_id": "INV-26022",
+    "vendor_invoice_no": "NAC-0493",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4122",
+    "invoice_date": "2026-08-21",
+    "received_at": "2026-08-23",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 73.0,
+        "uom": "QTL",
+        "unit_price": 4600.0
+      },
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 41.0,
+        "uom": "QTL",
+        "unit_price": 11800.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 819600.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 40980.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 860580.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "uom_mismatch",
+      "action": "approve_uom_normalized",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Nizam Agro always invoices in quintals (1 QTL = 100 KG) against KG POs. Value matches after conversion; approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26024",
+    "vendor_invoice_no": "DPL/0436/R",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4117",
+    "invoice_date": "2026-08-21",
+    "received_at": "2026-08-23",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 5100,
+        "uom": "KG",
+        "unit_price": 268.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1366800.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 246024.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 1612824.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "Reminder copy - kindly process",
+    "_truth": {
+      "exception_type": "duplicate_suspect",
+      "action": "reject_duplicate",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Re-sent copy of DPL/0436 (already booked) with a '/R' suffix. Deccan Print does this when payment is near due. Rejected as duplicate."
+    }
+  },
+  {
+    "invoice_id": "INV-26032",
+    "vendor_invoice_no": "GST-0466",
+    "vendor_id": "V005",
+    "vendor_name": "Guntur Spice Traders",
+    "po_id": "PO-4131",
+    "invoice_date": "2026-08-24",
+    "received_at": "2026-08-24",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 2300,
+        "uom": "KG",
+        "unit_price": 212.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 487600.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 5,
+      "amount": 24380.0,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 511980.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Andhra Bank ••••5562",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26033",
+    "vendor_invoice_no": "DPL/0438",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4132",
+    "invoice_date": "2026-08-25",
+    "received_at": "2026-08-25",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 3300,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 165100,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1036292.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 186532.56,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 1222824.56,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26028",
+    "vendor_invoice_no": "SBP/26-27/0867",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4127",
+    "invoice_date": "2026-08-25",
+    "received_at": "2026-08-26",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 4100,
+        "uom": "PCS",
+        "unit_price": 32.15
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 2400,
+        "uom": "PCS",
+        "unit_price": 15.1
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 168055.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 30249.9,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 198304.9,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "2.06% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26030",
+    "vendor_invoice_no": "KCC/0234",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4129",
+    "invoice_date": "2026-08-25",
+    "received_at": "2026-08-26",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 88,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading & handling charges",
+        "amount": 3100
+      }
+    ],
+    "subtotal": 59420.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 10695.6,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 70115.6,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "approve",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "Loading/handling charge of Rs 3,100 is standard for cold-storage pulls; we approve up to Rs 5,000 without a PO amendment."
+    }
+  },
+  {
+    "invoice_id": "INV-26029",
+    "vendor_invoice_no": "SBP/26-27/0874",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4128",
+    "invoice_date": "2026-08-27",
+    "received_at": "2026-08-27",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 1610,
+        "uom": "PCS",
+        "unit_price": 6.3
+      },
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 1300,
+        "uom": "PCS",
+        "unit_price": 32.02
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 51769.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 9318.42,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 61087.42,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "1.64% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26034",
+    "vendor_invoice_no": "SLFS/0770",
+    "vendor_id": "V010",
+    "vendor_name": "Sri Lakshmi Facility Services",
+    "po_id": "PO-4133",
+    "invoice_date": "2026-08-27",
+    "received_at": "2026-08-28",
+    "lines": [
+      {
+        "sku": "SEC-GUARD",
+        "description": "Security guard-month",
+        "qty": 10,
+        "uom": "STAFF-MO",
+        "unit_price": 21000.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 210000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 37800.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 247800.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "IDBI ••••4402",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26031",
+    "vendor_invoice_no": "NAC-0500",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4130",
+    "invoice_date": "2026-08-27",
+    "received_at": "2026-08-29",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 5100,
+        "uom": "KG",
+        "unit_price": 46.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 234600.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 11730.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 246330.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26037",
+    "vendor_invoice_no": "KCC/0240",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4136",
+    "invoice_date": "2026-09-01",
+    "received_at": "2026-09-01",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 43,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading & handling charges",
+        "amount": 1800
+      }
+    ],
+    "subtotal": 29320.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 5277.6,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 34597.6,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "approve",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "Loading/handling charge of Rs 1,800 is standard for cold-storage pulls; we approve up to Rs 5,000 without a PO amendment."
+    }
+  },
+  {
+    "invoice_id": "INV-26041",
+    "vendor_invoice_no": "C9-0350",
+    "vendor_id": "V007",
+    "vendor_name": "CloudNine Retail SaaS",
+    "po_id": "PO-4139",
+    "invoice_date": "2026-09-01",
+    "received_at": "2026-09-01",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "description": "DMS user seat (monthly)",
+        "qty": 38,
+        "uom": "SEAT",
+        "unit_price": 1450.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 55100.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 9918.0,
+      "place_of_supply": "36",
+      "vendor_state": "29"
+    },
+    "total": 65018.0,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Citi ••••0071",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26042",
+    "vendor_invoice_no": "VID/0318",
+    "vendor_id": "V008",
+    "vendor_name": "Vizag Industrial Drums",
+    "po_id": "PO-4140",
+    "invoice_date": "2026-08-31",
+    "received_at": "2026-09-01",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "description": "HDPE drum 50L",
+        "qty": 750,
+        "uom": "PCS",
+        "unit_price": 545.0
+      },
+      {
+        "sku": "CAN-20L",
+        "description": "Jerry can 20L",
+        "qty": 740,
+        "uom": "PCS",
+        "unit_price": 188.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 547870.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 98616.6,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 646486.6,
+    "currency": "INR",
+    "payment_terms": "2/10 Net 45",
+    "bank_account": "Union ••••6230",
+    "remarks": "2% cash discount if paid within 10 days",
+    "_truth": {
+      "exception_type": "payment_terms",
+      "action": "approve_pay_early",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Vizag offers 2/10 Net 45. 2% for paying 35 days early is ~21% annualised; we have surplus cash, so schedule payment inside 10 days and take the discount."
+    }
+  },
+  {
+    "invoice_id": "INV-26043",
+    "vendor_invoice_no": "TE-0903",
+    "vendor_id": "V009",
+    "vendor_name": "Telangana Electricals",
+    "po_id": "PO-4141",
+    "invoice_date": "2026-09-01",
+    "received_at": "2026-09-02",
+    "lines": [
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      },
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 13,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 63450.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 11421.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 74871.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Canara ••••1188",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26038",
+    "vendor_invoice_no": "NAC-0505",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4137",
+    "invoice_date": "2026-09-03",
+    "received_at": "2026-09-03",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 62.0,
+        "uom": "QTL",
+        "unit_price": 4600.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 285200.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 14260.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 299460.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "uom_mismatch",
+      "action": "approve_uom_normalized",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Nizam Agro always invoices in quintals (1 QTL = 100 KG) against KG POs. Value matches after conversion; approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26040",
+    "vendor_invoice_no": "DPL/0438-R",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4132",
+    "invoice_date": "2026-09-01",
+    "received_at": "2026-09-03",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 3300,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 165100,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1036292.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 186532.56,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 1222824.56,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "Reminder copy - kindly process",
+    "_truth": {
+      "exception_type": "duplicate_suspect",
+      "action": "reject_duplicate",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Re-sent copy of DPL/0438 (already booked) with a '-R' suffix. Deccan Print does this when payment is near due. Rejected as duplicate."
+    }
+  },
+  {
+    "invoice_id": "INV-26035",
+    "vendor_invoice_no": "SBP/26-27/0879",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4134",
+    "invoice_date": "2026-09-02",
+    "received_at": "2026-09-04",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 2100,
+        "uom": "PCS",
+        "unit_price": 6.35
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 2400,
+        "uom": "PCS",
+        "unit_price": 15.16
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 49719.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 8949.42,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 58668.42,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "2.46% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26039",
+    "vendor_invoice_no": "DPL/0440",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4138",
+    "invoice_date": "2026-09-03",
+    "received_at": "2026-09-04",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 7000,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 142400,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 2007008.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 361261.44,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 2368269.44,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26036",
+    "vendor_invoice_no": "GL-INV-0328",
+    "vendor_id": "V002",
+    "vendor_name": "Godavari Logistics",
+    "po_id": "PO-4135",
+    "invoice_date": "2026-09-04",
+    "received_at": "2026-09-06",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 94,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 124550.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 22419.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 146969.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "ICICI ••••2093",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "quantity_mismatch",
+      "action": "hold_partial_receipt",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Godavari bills the full PO quantity on the first dispatch; only 54% received so far. Hold until the balance GRN is posted, then release."
+    }
+  },
+  {
+    "invoice_id": "INV-26044",
+    "vendor_invoice_no": "AP-0298",
+    "vendor_id": "V011",
+    "vendor_name": "Amaravati Polymers",
+    "po_id": "PO-4142",
+    "invoice_date": "2026-09-04",
+    "received_at": "2026-09-06",
+    "lines": [
+      {
+        "sku": "PET-PRF-28",
+        "description": "PET preform 28mm",
+        "qty": 53600,
+        "uom": "PCS",
+        "unit_price": 2.35
+      },
+      {
+        "sku": "CAP-28",
+        "description": "28mm flip cap",
+        "qty": 57600,
+        "uom": "PCS",
+        "unit_price": 0.61
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 161096.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 28997.28,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 190093.28,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "RBL ••••2891",
+    "remarks": "IMPORTANT: Please note our bank account has changed. Remit to the new account mentioned on this invoice with immediate effect.",
+    "_truth": {
+      "exception_type": "bank_change",
+      "action": "verify_bank_change",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Bank-change request on invoice. Treasury did a call-back on the number in the vendor master (not the one on the letter). Vendor denied sending it: business-email-compromise attempt. Blocked; vendor alerted; IT security informed."
+    }
+  },
+  {
+    "invoice_id": "INV-26045",
+    "vendor_invoice_no": "CPC0813",
+    "vendor_id": "V012",
+    "vendor_name": "Charminar Pest Control",
+    "po_id": "PO-4143",
+    "invoice_date": "2026-09-04",
+    "received_at": "2026-09-06",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "description": "Monthly pest management (plant)",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 26500.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 26500.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 4770.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 31270.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Federal ••••2765",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26046",
+    "vendor_invoice_no": "SBP/26-27/0880",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4144",
+    "invoice_date": "2026-09-08",
+    "received_at": "2026-09-08",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 4900,
+        "uom": "PCS",
+        "unit_price": 32.25
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 4800,
+        "uom": "PCS",
+        "unit_price": 15.15
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 230745.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 41534.1,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 272279.1,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "2.38% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26047",
+    "vendor_invoice_no": "GL-INV-0331",
+    "vendor_id": "V002",
+    "vendor_name": "Godavari Logistics",
+    "po_id": "PO-4145",
+    "invoice_date": "2026-09-10",
+    "received_at": "2026-09-10",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 82,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      },
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 110,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 379450.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 68301.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 447751.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "ICICI ••••2093",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26051",
+    "vendor_invoice_no": "DPL/0447",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4149",
+    "invoice_date": "2026-09-10",
+    "received_at": "2026-09-10",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 102600,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 94392.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 16990.56,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 111382.56,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26049",
+    "vendor_invoice_no": "NAC-0508",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4147",
+    "invoice_date": "2026-09-11",
+    "received_at": "2026-09-11",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 25.0,
+        "uom": "QTL",
+        "unit_price": 11800.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 295000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 14750.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 309750.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "uom_mismatch",
+      "action": "approve_uom_normalized",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Nizam Agro always invoices in quintals (1 QTL = 100 KG) against KG POs. Value matches after conversion; approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26050",
+    "vendor_invoice_no": "GST-0473",
+    "vendor_id": "V005",
+    "vendor_name": "Guntur Spice Traders",
+    "po_id": "PO-4148",
+    "invoice_date": "2026-09-09",
+    "received_at": "2026-09-11",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 7000,
+        "uom": "KG",
+        "unit_price": 212.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1484000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 74200.0,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 1558200.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Andhra Bank ••••5562",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "tax_mismatch",
+      "action": "return_to_vendor",
+      "decided_by": "Sneha Kulkarni (Indirect Tax)",
+      "note": "Supplier is in Andhra Pradesh (37) and we are in Telangana (36): this is an inter-state supply and must carry IGST, not CGST+SGST. ITC would be blocked. Returned to vendor for a corrected invoice."
+    }
+  },
+  {
+    "invoice_id": "INV-26052",
+    "vendor_invoice_no": "SLFS/0777",
+    "vendor_id": "V010",
+    "vendor_name": "Sri Lakshmi Facility Services",
+    "po_id": "PO-4150",
+    "invoice_date": "2026-09-10",
+    "received_at": "2026-09-11",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "description": "Housekeeping staff-month",
+        "qty": 11,
+        "uom": "STAFF-MO",
+        "unit_price": 18500.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 203500.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 36630.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 240130.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "IDBI ••••4402",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26048",
+    "vendor_invoice_no": "KCC/0243",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4146",
+    "invoice_date": "2026-09-10",
+    "received_at": "2026-09-12",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 29,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 39,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading & handling charges",
+        "amount": 4800
+      }
+    ],
+    "subtotal": 58850.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 10593.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 69443.0,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "approve",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "Loading/handling charge of Rs 4,800 is standard for cold-storage pulls; we approve up to Rs 5,000 without a PO amendment."
+    }
+  },
+  {
+    "invoice_id": "INV-26053",
+    "vendor_invoice_no": "SBP/26-27/0882",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4151",
+    "invoice_date": "2026-09-15",
+    "received_at": "2026-09-15",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 3900,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 1120,
+        "uom": "PCS",
+        "unit_price": 6.2
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 129794.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 23362.92,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 153156.92,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26055",
+    "vendor_invoice_no": "GL-INV-0334",
+    "vendor_id": "V002",
+    "vendor_name": "Godavari Logistics",
+    "po_id": "PO-4153",
+    "invoice_date": "2026-09-16",
+    "received_at": "2026-09-16",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 87,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      },
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 54,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 269175.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 48451.5,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 317626.5,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "ICICI ••••2093",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26062",
+    "vendor_invoice_no": "AP-0300",
+    "vendor_id": "V011",
+    "vendor_name": "Amaravati Polymers",
+    "po_id": "PO-4159",
+    "invoice_date": "2026-09-15",
+    "received_at": "2026-09-16",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "description": "28mm flip cap",
+        "qty": 79800,
+        "uom": "PCS",
+        "unit_price": 0.61
+      },
+      {
+        "sku": "PET-PRF-28",
+        "description": "PET preform 28mm",
+        "qty": 77600,
+        "uom": "PCS",
+        "unit_price": 2.35
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 231038.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 41586.84,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 272624.84,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Indian Bank ••••9017",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26054",
+    "vendor_invoice_no": "SBP/26-27/0885",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4152",
+    "invoice_date": "2026-09-17",
+    "received_at": "2026-09-17",
+    "lines": [
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 2600,
+        "uom": "PCS",
+        "unit_price": 15.43
+      },
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 990,
+        "uom": "PCS",
+        "unit_price": 32.84
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 72629.6,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 13073.33,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 85702.93,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Revised rates due to kraft paper increase",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "hold_for_procurement",
+      "decided_by": "Priya Nair (Procurement Lead)",
+      "note": "4.26% over PO exceeds the 2.5% surcharge cap in clause 7.2. Held and sent back to procurement to renegotiate before payment."
+    }
+  },
+  {
+    "invoice_id": "INV-26058",
+    "vendor_invoice_no": "DPL/0451",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4156",
+    "invoice_date": "2026-09-17",
+    "received_at": "2026-09-17",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 155500,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 143060.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 25750.8,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 168810.8,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26057",
+    "vendor_invoice_no": "NAC-0511",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4155",
+    "invoice_date": "2026-09-18",
+    "received_at": "2026-09-18",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 89.0,
+        "uom": "QTL",
+        "unit_price": 11800.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1050200.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 52510.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 1102710.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "uom_mismatch",
+      "action": "approve_uom_normalized",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Nizam Agro always invoices in quintals (1 QTL = 100 KG) against KG POs. Value matches after conversion; approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26059",
+    "vendor_invoice_no": "DPL/0447/REV",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4149",
+    "invoice_date": "2026-09-16",
+    "received_at": "2026-09-18",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 102600,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 94392.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 16990.56,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 111382.56,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "Reminder copy - kindly process",
+    "_truth": {
+      "exception_type": "duplicate_suspect",
+      "action": "reject_duplicate",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Re-sent copy of DPL/0447 (already booked) with a '/REV' suffix. Deccan Print does this when payment is near due. Rejected as duplicate."
+    }
+  },
+  {
+    "invoice_id": "INV-26060",
+    "vendor_invoice_no": "VID/0321",
+    "vendor_id": "V008",
+    "vendor_name": "Vizag Industrial Drums",
+    "po_id": "PO-4157",
+    "invoice_date": "2026-09-16",
+    "received_at": "2026-09-18",
+    "lines": [
+      {
+        "sku": "CAN-20L",
+        "description": "Jerry can 20L",
+        "qty": 1340,
+        "uom": "PCS",
+        "unit_price": 188.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 251920.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 45345.6,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 297265.6,
+    "currency": "INR",
+    "payment_terms": "2/10 Net 45",
+    "bank_account": "Union ••••6230",
+    "remarks": "2% cash discount if paid within 10 days",
+    "_truth": {
+      "exception_type": "payment_terms",
+      "action": "approve_pay_early",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Vizag offers 2/10 Net 45. 2% for paying 35 days early is ~21% annualised; we have surplus cash, so schedule payment inside 10 days and take the discount."
+    }
+  },
+  {
+    "invoice_id": "INV-26061",
+    "vendor_invoice_no": "TE-0909",
+    "vendor_id": "V009",
+    "vendor_name": "Telangana Electricals",
+    "po_id": "PO-4158",
+    "invoice_date": "2026-09-17",
+    "received_at": "2026-09-19",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 8,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      },
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 55200.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 9936.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 65136.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "RBL ••••7211",
+    "remarks": "IMPORTANT: Please note our bank account has changed. Remit to the new account mentioned on this invoice with immediate effect.",
+    "_truth": {
+      "exception_type": "bank_change",
+      "action": "verify_bank_change",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Bank-change request on invoice. Treasury did a call-back on the number in the vendor master (not the one on the letter). Vendor confirmed the change; master updated after KYC, then paid."
+    }
+  },
+  {
+    "invoice_id": "INV-26056",
+    "vendor_invoice_no": "KCC/0247",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4154",
+    "invoice_date": "2026-09-18",
+    "received_at": "2026-09-20",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 75,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 64,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading, handling & detention charges",
+        "amount": 11800
+      }
+    ],
+    "subtotal": 118040.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 21247.2,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 139287.2,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "hold_for_procurement",
+      "decided_by": "Priya Nair (Procurement Lead)",
+      "note": "Rs 11,800 handling charge is above the Rs 5,000 limit; needs a PO amendment from procurement."
+    }
+  },
+  {
+    "invoice_id": "INV-26064",
+    "vendor_invoice_no": "KCC/0248",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4161",
+    "invoice_date": "2026-09-22",
+    "received_at": "2026-09-22",
+    "lines": [
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 85,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading, handling & detention charges",
+        "amount": 11800
+      }
+    ],
+    "subtotal": 89150.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 16047.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 105197.0,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "hold_for_procurement",
+      "decided_by": "Priya Nair (Procurement Lead)",
+      "note": "Rs 11,800 handling charge is above the Rs 5,000 limit; needs a PO amendment from procurement."
+    }
+  },
+  {
+    "invoice_id": "INV-26065",
+    "vendor_invoice_no": "NAC-0513",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4162",
+    "invoice_date": "2026-09-23",
+    "received_at": "2026-09-24",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 27.0,
+        "uom": "QTL",
+        "unit_price": 4600.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 124200.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 6210.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 130410.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "uom_mismatch",
+      "action": "approve_uom_normalized",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Nizam Agro always invoices in quintals (1 QTL = 100 KG) against KG POs. Value matches after conversion; approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26067",
+    "vendor_invoice_no": "DPL/0458",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4164",
+    "invoice_date": "2026-09-24",
+    "received_at": "2026-09-24",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 2700,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 61500,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 780180.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 140432.4,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 920612.4,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26068",
+    "vendor_invoice_no": "SLFS/0781",
+    "vendor_id": "V010",
+    "vendor_name": "Sri Lakshmi Facility Services",
+    "po_id": "PO-4165",
+    "invoice_date": "2026-09-24",
+    "received_at": "2026-09-24",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "description": "Housekeeping staff-month",
+        "qty": 14,
+        "uom": "STAFF-MO",
+        "unit_price": 18500.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 259000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 46620.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 305620.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "IDBI ••••4402",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26066",
+    "vendor_invoice_no": "GST-0478",
+    "vendor_id": "V005",
+    "vendor_name": "Guntur Spice Traders",
+    "po_id": "PO-4163",
+    "invoice_date": "2026-09-25",
+    "received_at": "2026-09-25",
+    "lines": [
+      {
+        "sku": "TURM-FNG",
+        "description": "Turmeric fingers",
+        "qty": 4900,
+        "uom": "KG",
+        "unit_price": 136.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 666400.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 5,
+      "amount": 33320.0,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 699720.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Andhra Bank ••••5562",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26063",
+    "vendor_invoice_no": "SBP/26-27/0892",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4160",
+    "invoice_date": "2026-09-25",
+    "received_at": "2026-09-27",
+    "lines": [
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 4400,
+        "uom": "PCS",
+        "unit_price": 15.13
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 2600,
+        "uom": "PCS",
+        "unit_price": 6.34
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 83056.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 14950.08,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 98006.08,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "2.23% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26073",
+    "vendor_invoice_no": "DPL/0464",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4170",
+    "invoice_date": "2026-09-29",
+    "received_at": "2026-09-29",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 160400,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 147568.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 26562.24,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 174130.24,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26074",
+    "vendor_invoice_no": "DPL/0458/REV",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4164",
+    "invoice_date": "2026-09-29",
+    "received_at": "2026-09-29",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 2700,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 61500,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 780180.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 140432.4,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 920612.4,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "Reminder copy - kindly process",
+    "_truth": {
+      "exception_type": "duplicate_suspect",
+      "action": "reject_duplicate",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Re-sent copy of DPL/0458 (already booked) with a '/REV' suffix. Deccan Print does this when payment is near due. Rejected as duplicate."
+    }
+  },
+  {
+    "invoice_id": "INV-26077",
+    "vendor_invoice_no": "TE-0916",
+    "vendor_id": "V009",
+    "vendor_name": "Telangana Electricals",
+    "po_id": "PO-4173",
+    "invoice_date": "2026-09-28",
+    "received_at": "2026-09-29",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 15,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      },
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 66750.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 12015.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 78765.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Canara ••••1188",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26072",
+    "vendor_invoice_no": "NAC-0518",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4169",
+    "invoice_date": "2026-09-30",
+    "received_at": "2026-09-30",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 43.0,
+        "uom": "QTL",
+        "unit_price": 11800.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 507400.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 25370.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 532770.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "uom_mismatch",
+      "action": "approve_uom_normalized",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Nizam Agro always invoices in quintals (1 QTL = 100 KG) against KG POs. Value matches after conversion; approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26071",
+    "vendor_invoice_no": "KCC/0252",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4168",
+    "invoice_date": "2026-10-01",
+    "received_at": "2026-10-01",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 86,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 82,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading, handling & detention charges",
+        "amount": 11800
+      }
+    ],
+    "subtotal": 141460.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 25462.8,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 166922.8,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "hold_for_procurement",
+      "decided_by": "Priya Nair (Procurement Lead)",
+      "note": "Rs 11,800 handling charge is above the Rs 5,000 limit; needs a PO amendment from procurement."
+    }
+  },
+  {
+    "invoice_id": "INV-26075",
+    "vendor_invoice_no": "C9-0353",
+    "vendor_id": "V007",
+    "vendor_name": "CloudNine Retail SaaS",
+    "po_id": "PO-4171",
+    "invoice_date": "2026-09-29",
+    "received_at": "2026-10-01",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "description": "DMS user seat (monthly)",
+        "qty": 37,
+        "uom": "SEAT",
+        "unit_price": 1450.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 53650.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 9657.0,
+      "place_of_supply": "36",
+      "vendor_state": "29"
+    },
+    "total": 63307.0,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Citi ••••0071",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26078",
+    "vendor_invoice_no": "AP-0303",
+    "vendor_id": "V011",
+    "vendor_name": "Amaravati Polymers",
+    "po_id": "PO-4174",
+    "invoice_date": "2026-10-01",
+    "received_at": "2026-10-02",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "description": "28mm flip cap",
+        "qty": 68800,
+        "uom": "PCS",
+        "unit_price": 0.61
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 41968.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 7554.24,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 49522.24,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Indian Bank ••••9017",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26070",
+    "vendor_invoice_no": "GL-INV-0340",
+    "vendor_id": "V002",
+    "vendor_name": "Godavari Logistics",
+    "po_id": "PO-4167",
+    "invoice_date": "2026-10-02",
+    "received_at": "2026-10-03",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 220,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      },
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 97,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 567950.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 102231.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 670181.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "ICICI ••••2093",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26076",
+    "vendor_invoice_no": "VID/0328",
+    "vendor_id": "V008",
+    "vendor_name": "Vizag Industrial Drums",
+    "po_id": "PO-4172",
+    "invoice_date": "2026-10-01",
+    "received_at": "2026-10-03",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "description": "HDPE drum 50L",
+        "qty": 630,
+        "uom": "PCS",
+        "unit_price": 545.0
+      },
+      {
+        "sku": "CAN-20L",
+        "description": "Jerry can 20L",
+        "qty": 1100,
+        "uom": "PCS",
+        "unit_price": 188.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 550150.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 99027.0,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 649177.0,
+    "currency": "INR",
+    "payment_terms": "2/10 Net 45",
+    "bank_account": "Union ••••6230",
+    "remarks": "2% cash discount if paid within 10 days",
+    "_truth": {
+      "exception_type": "payment_terms",
+      "action": "approve_pay_early",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Vizag offers 2/10 Net 45. 2% for paying 35 days early is ~21% annualised; we have surplus cash, so schedule payment inside 10 days and take the discount."
+    }
+  },
+  {
+    "invoice_id": "INV-26079",
+    "vendor_invoice_no": "CPC0816",
+    "vendor_id": "V012",
+    "vendor_name": "Charminar Pest Control",
+    "po_id": "PO-4175",
+    "invoice_date": "2026-10-01",
+    "received_at": "2026-10-03",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "description": "Monthly pest management (plant)",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 26500.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 26500.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 4770.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 31270.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Federal ••••2765",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26069",
+    "vendor_invoice_no": "SBP/26-27/0897",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4166",
+    "invoice_date": "2026-10-02",
+    "received_at": "2026-10-04",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 4500,
+        "uom": "PCS",
+        "unit_price": 32.07
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 144315.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 25976.7,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 170291.7,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "1.8% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26085",
+    "vendor_invoice_no": "GST-0483",
+    "vendor_id": "V005",
+    "vendor_name": "Guntur Spice Traders",
+    "po_id": "PO-4181",
+    "invoice_date": "2026-10-06",
+    "received_at": "2026-10-06",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 5400,
+        "uom": "KG",
+        "unit_price": 212.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1144800.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 5,
+      "amount": 57240.0,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 1202040.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Andhra Bank ••••5562",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26084",
+    "vendor_invoice_no": "NAC-0519",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4180",
+    "invoice_date": "2026-10-05",
+    "received_at": "2026-10-07",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 35.0,
+        "uom": "QTL",
+        "unit_price": 4600.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 161000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 8050.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 169050.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "uom_mismatch",
+      "action": "approve_uom_normalized",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Nizam Agro always invoices in quintals (1 QTL = 100 KG) against KG POs. Value matches after conversion; approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26080",
+    "vendor_invoice_no": "SBP/26-27/0902",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4176",
+    "invoice_date": "2026-10-08",
+    "received_at": "2026-10-08",
+    "lines": [
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 1840,
+        "uom": "PCS",
+        "unit_price": 14.8
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 27232.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 4901.76,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 32133.76,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26086",
+    "vendor_invoice_no": "DPL/0471",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4182",
+    "invoice_date": "2026-10-08",
+    "received_at": "2026-10-08",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 6500,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 90000,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1824800.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 328464.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 2153264.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26081",
+    "vendor_invoice_no": "SBP/26-27/0903",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4177",
+    "invoice_date": "2026-10-08",
+    "received_at": "2026-10-09",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 4300,
+        "uom": "PCS",
+        "unit_price": 32.07
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 137901.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 24822.18,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 162723.18,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "1.8% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26082",
+    "vendor_invoice_no": "GL-INV-0344",
+    "vendor_id": "V002",
+    "vendor_name": "Godavari Logistics",
+    "po_id": "PO-4178",
+    "invoice_date": "2026-10-08",
+    "received_at": "2026-10-09",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 81,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      },
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 170,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 456100.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 82098.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 538198.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "ICICI ••••2093",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26087",
+    "vendor_invoice_no": "SLFS/0785",
+    "vendor_id": "V010",
+    "vendor_name": "Sri Lakshmi Facility Services",
+    "po_id": "PO-4183",
+    "invoice_date": "2026-10-07",
+    "received_at": "2026-10-09",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "description": "Housekeeping staff-month",
+        "qty": 10,
+        "uom": "STAFF-MO",
+        "unit_price": 18500.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 185000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 33300.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 218300.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "IndusInd ••••7149",
+    "remarks": "IMPORTANT: Please note our bank account has changed. Remit to the new account mentioned on this invoice with immediate effect.",
+    "_truth": {
+      "exception_type": "bank_change",
+      "action": "verify_bank_change",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Bank-change request on invoice. Treasury did a call-back on the number in the vendor master (not the one on the letter). Vendor denied sending it: business-email-compromise attempt. Blocked; vendor alerted; IT security informed."
+    }
+  },
+  {
+    "invoice_id": "INV-26083",
+    "vendor_invoice_no": "KCC/0254",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4179",
+    "invoice_date": "2026-10-08",
+    "received_at": "2026-10-10",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 22,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 89,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading & handling charges",
+        "amount": 2650
+      }
+    ],
+    "subtotal": 97720.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 17589.6,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 115309.6,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "approve",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "Loading/handling charge of Rs 2,650 is standard for cold-storage pulls; we approve up to Rs 5,000 without a PO amendment."
+    }
+  },
+  {
+    "invoice_id": "INV-26095",
+    "vendor_invoice_no": "TE-0921",
+    "vendor_id": "V009",
+    "vendor_name": "Telangana Electricals",
+    "po_id": "PO-4190",
+    "invoice_date": "2026-10-13",
+    "received_at": "2026-10-13",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 12,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      },
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 61800.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 11124.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 72924.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Canara ••••1188",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26091",
+    "vendor_invoice_no": "NAC-0526",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4187",
+    "invoice_date": "2026-10-13",
+    "received_at": "2026-10-14",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 6500,
+        "uom": "KG",
+        "unit_price": 46.0
+      },
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 8100,
+        "uom": "KG",
+        "unit_price": 118.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1254800.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 62740.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 1317540.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26088",
+    "vendor_invoice_no": "SBP/26-27/0906",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4184",
+    "invoice_date": "2026-10-13",
+    "received_at": "2026-10-15",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 5900,
+        "uom": "PCS",
+        "unit_price": 6.33
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 37347.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 6722.46,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 44069.46,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "2.11% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26090",
+    "vendor_invoice_no": "KCC/0260",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4186",
+    "invoice_date": "2026-10-14",
+    "received_at": "2026-10-15",
+    "lines": [
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 82,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading & handling charges",
+        "amount": 2650
+      }
+    ],
+    "subtotal": 77270.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 13908.6,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 91178.6,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "approve",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "Loading/handling charge of Rs 2,650 is standard for cold-storage pulls; we approve up to Rs 5,000 without a PO amendment."
+    }
+  },
+  {
+    "invoice_id": "INV-26092",
+    "vendor_invoice_no": "DPL/0478",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4188",
+    "invoice_date": "2026-10-15",
+    "received_at": "2026-10-15",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 8500,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 124400,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 2392448.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 430640.64,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 2823088.64,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26093",
+    "vendor_invoice_no": "DPL/0471-R",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4182",
+    "invoice_date": "2026-10-15",
+    "received_at": "2026-10-15",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 6500,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 90000,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1824800.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 328464.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 2153264.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "Reminder copy - kindly process",
+    "_truth": {
+      "exception_type": "duplicate_suspect",
+      "action": "reject_duplicate",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Re-sent copy of DPL/0471 (already booked) with a '-R' suffix. Deccan Print does this when payment is near due. Rejected as duplicate."
+    }
+  },
+  {
+    "invoice_id": "INV-26094",
+    "vendor_invoice_no": "VID/0330",
+    "vendor_id": "V008",
+    "vendor_name": "Vizag Industrial Drums",
+    "po_id": "PO-4189",
+    "invoice_date": "2026-10-15",
+    "received_at": "2026-10-16",
+    "lines": [
+      {
+        "sku": "CAN-20L",
+        "description": "Jerry can 20L",
+        "qty": 1310,
+        "uom": "PCS",
+        "unit_price": 188.0
+      },
+      {
+        "sku": "DRUM-50L",
+        "description": "HDPE drum 50L",
+        "qty": 530,
+        "uom": "PCS",
+        "unit_price": 545.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 535130.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 96323.4,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 631453.4,
+    "currency": "INR",
+    "payment_terms": "2/10 Net 45",
+    "bank_account": "Union ••••6230",
+    "remarks": "2% cash discount if paid within 10 days",
+    "_truth": {
+      "exception_type": "payment_terms",
+      "action": "approve_pay_early",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Vizag offers 2/10 Net 45. 2% for paying 35 days early is ~21% annualised; we have surplus cash, so schedule payment inside 10 days and take the discount."
+    }
+  },
+  {
+    "invoice_id": "INV-26096",
+    "vendor_invoice_no": "AP-0309",
+    "vendor_id": "V011",
+    "vendor_name": "Amaravati Polymers",
+    "po_id": "PO-4191",
+    "invoice_date": "2026-10-16",
+    "received_at": "2026-10-17",
+    "lines": [
+      {
+        "sku": "PET-PRF-28",
+        "description": "PET preform 28mm",
+        "qty": 71600,
+        "uom": "PCS",
+        "unit_price": 2.35
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 168260.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 30286.8,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 198546.8,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Indian Bank ••••9017",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26089",
+    "vendor_invoice_no": "GL-INV-0345",
+    "vendor_id": "V002",
+    "vendor_name": "Godavari Logistics",
+    "po_id": "PO-4185",
+    "invoice_date": "2026-10-16",
+    "received_at": "2026-10-18",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 84,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 239400.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 43092.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 282492.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "ICICI ••••2093",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "quantity_mismatch",
+      "action": "hold_partial_receipt",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Godavari bills the full PO quantity on the first dispatch; only 60% received so far. Hold until the balance GRN is posted, then release."
+    }
+  },
+  {
+    "invoice_id": "INV-26098",
+    "vendor_invoice_no": "KCC/0264",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4193",
+    "invoice_date": "2026-10-19",
+    "received_at": "2026-10-21",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 51,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 59,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading, handling & detention charges",
+        "amount": 11800
+      }
+    ],
+    "subtotal": 98130.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 17663.4,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 115793.4,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "hold_for_procurement",
+      "decided_by": "Priya Nair (Procurement Lead)",
+      "note": "Rs 11,800 handling charge is above the Rs 5,000 limit; needs a PO amendment from procurement."
+    }
+  },
+  {
+    "invoice_id": "INV-26097",
+    "vendor_invoice_no": "SBP/26-27/0913",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4192",
+    "invoice_date": "2026-10-22",
+    "received_at": "2026-10-22",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 4700,
+        "uom": "PCS",
+        "unit_price": 6.48
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 30456.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 5482.08,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 35938.08,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Revised rates due to kraft paper increase",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "hold_for_procurement",
+      "decided_by": "Priya Nair (Procurement Lead)",
+      "note": "4.52% over PO exceeds the 2.5% surcharge cap in clause 7.2. Held and sent back to procurement to renegotiate before payment."
+    }
+  },
+  {
+    "invoice_id": "INV-26100",
+    "vendor_invoice_no": "GST-0488",
+    "vendor_id": "V005",
+    "vendor_name": "Guntur Spice Traders",
+    "po_id": "PO-4195",
+    "invoice_date": "2026-10-20",
+    "received_at": "2026-10-22",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 4100,
+        "uom": "KG",
+        "unit_price": 212.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 869200.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 43460.0,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 912660.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Andhra Bank ••••5562",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "tax_mismatch",
+      "action": "return_to_vendor",
+      "decided_by": "Sneha Kulkarni (Indirect Tax)",
+      "note": "Supplier is in Andhra Pradesh (37) and we are in Telangana (36): this is an inter-state supply and must carry IGST, not CGST+SGST. ITC would be blocked. Returned to vendor for a corrected invoice."
+    }
+  },
+  {
+    "invoice_id": "INV-26101",
+    "vendor_invoice_no": "DPL/0481",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4196",
+    "invoice_date": "2026-10-20",
+    "received_at": "2026-10-22",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 186900,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 171948.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 30950.64,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 202898.64,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26103",
+    "vendor_invoice_no": "SLFS/0787",
+    "vendor_id": "V010",
+    "vendor_name": "Sri Lakshmi Facility Services",
+    "po_id": "PO-4197",
+    "invoice_date": "2026-10-21",
+    "received_at": "2026-10-22",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "description": "Housekeeping staff-month",
+        "qty": 10,
+        "uom": "STAFF-MO",
+        "unit_price": 18500.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 185000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 33300.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 218300.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "IDBI ••••4402",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26099",
+    "vendor_invoice_no": "NAC-0529",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4194",
+    "invoice_date": "2026-10-23",
+    "received_at": "2026-10-24",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 44.0,
+        "uom": "QTL",
+        "unit_price": 11800.0
+      },
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 73.0,
+        "uom": "QTL",
+        "unit_price": 4600.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 855000.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 42750.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 897750.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "uom_mismatch",
+      "action": "approve_uom_normalized",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Nizam Agro always invoices in quintals (1 QTL = 100 KG) against KG POs. Value matches after conversion; approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26102",
+    "vendor_invoice_no": "DPL/0478/REV",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4188",
+    "invoice_date": "2026-10-23",
+    "received_at": "2026-10-25",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 8500,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 124400,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 2392448.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 430640.64,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 2823088.64,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "Reminder copy - kindly process",
+    "_truth": {
+      "exception_type": "duplicate_suspect",
+      "action": "reject_duplicate",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Re-sent copy of DPL/0478 (already booked) with a '/REV' suffix. Deccan Print does this when payment is near due. Rejected as duplicate."
+    }
+  },
+  {
+    "invoice_id": "INV-26105",
+    "vendor_invoice_no": "SBP/26-27/0920",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4199",
+    "invoice_date": "2026-10-27",
+    "received_at": "2026-10-27",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 5500,
+        "uom": "PCS",
+        "unit_price": 32.06
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 3100,
+        "uom": "PCS",
+        "unit_price": 6.31
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 195891.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 35260.38,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 231151.38,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "Fuel surcharge applied as per agreement cl. 7.2",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "1.77% over PO price is Shree Balaji's diesel surcharge under contract clause 7.2 (capped at 2.5%). Within cap, approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26110",
+    "vendor_invoice_no": "C9-0355",
+    "vendor_id": "V007",
+    "vendor_name": "CloudNine Retail SaaS",
+    "po_id": "PO-4204",
+    "invoice_date": "2026-10-27",
+    "received_at": "2026-10-27",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "description": "DMS user seat (monthly)",
+        "qty": 26,
+        "uom": "SEAT",
+        "unit_price": 1558.75
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 40527.5,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 7294.95,
+      "place_of_supply": "36",
+      "vendor_state": "29"
+    },
+    "total": 47822.45,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Citi ••••0071",
+    "remarks": "Annual price revision as per MSA",
+    "_truth": {
+      "exception_type": "price_variance",
+      "action": "approve_with_variance",
+      "decided_by": "Ramesh Iyer (AP Controller)",
+      "note": "7.5% annual seat-price uplift at renewal is allowed by the CloudNine MSA (cap 8%). Approved."
+    }
+  },
+  {
+    "invoice_id": "INV-26104",
+    "vendor_invoice_no": "SBP/26-27/0918",
+    "vendor_id": "V001",
+    "vendor_name": "Shree Balaji Packaging",
+    "po_id": "PO-4198",
+    "invoice_date": "2026-10-27",
+    "received_at": "2026-10-28",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 3000,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 1170,
+        "uom": "PCS",
+        "unit_price": 6.2
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 101754.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 18315.72,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 120069.72,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "HDFC ••••4417",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26106",
+    "vendor_invoice_no": "GL-INV-0346",
+    "vendor_id": "V002",
+    "vendor_name": "Godavari Logistics",
+    "po_id": "PO-4200",
+    "invoice_date": "2026-10-28",
+    "received_at": "2026-10-28",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 91,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      },
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 200,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 524350.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 94383.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 618733.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "ICICI ••••2093",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "quantity_mismatch",
+      "action": "hold_partial_receipt",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Godavari bills the full PO quantity on the first dispatch; only 59% received so far. Hold until the balance GRN is posted, then release."
+    }
+  },
+  {
+    "invoice_id": "INV-26111",
+    "vendor_invoice_no": "VID/0334",
+    "vendor_id": "V008",
+    "vendor_name": "Vizag Industrial Drums",
+    "po_id": "PO-4205",
+    "invoice_date": "2026-10-27",
+    "received_at": "2026-10-28",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "description": "HDPE drum 50L",
+        "qty": 200,
+        "uom": "PCS",
+        "unit_price": 545.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 109000.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 19620.0,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 128620.0,
+    "currency": "INR",
+    "payment_terms": "2/10 Net 45",
+    "bank_account": "Union ••••6230",
+    "remarks": "2% cash discount if paid within 10 days",
+    "_truth": {
+      "exception_type": "payment_terms",
+      "action": "approve_pay_early",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Vizag offers 2/10 Net 45. 2% for paying 35 days early is ~21% annualised; we have surplus cash, so schedule payment inside 10 days and take the discount."
+    }
+  },
+  {
+    "invoice_id": "INV-26107",
+    "vendor_invoice_no": "KCC/0271",
+    "vendor_id": "V003",
+    "vendor_name": "Krishna Cold Chain Pvt. Ltd.",
+    "po_id": "PO-4201",
+    "invoice_date": "2026-10-27",
+    "received_at": "2026-10-29",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 35,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 73,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "extra_charges": [
+      {
+        "description": "Loading, handling & detention charges",
+        "amount": 9200
+      }
+    ],
+    "subtotal": 98030.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 17645.4,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 115675.4,
+    "currency": "INR",
+    "payment_terms": "Net 15",
+    "bank_account": "Axis ••••7781",
+    "remarks": "",
+    "_truth": {
+      "exception_type": "unplanned_charge",
+      "action": "hold_for_procurement",
+      "decided_by": "Priya Nair (Procurement Lead)",
+      "note": "Rs 9,200 handling charge is above the Rs 5,000 limit; needs a PO amendment from procurement."
+    }
+  },
+  {
+    "invoice_id": "INV-26113",
+    "vendor_invoice_no": "AP-0313",
+    "vendor_id": "V011",
+    "vendor_name": "Amaravati Polymers",
+    "po_id": "PO-4207",
+    "invoice_date": "2026-10-29",
+    "received_at": "2026-10-29",
+    "lines": [
+      {
+        "sku": "PET-PRF-28",
+        "description": "PET preform 28mm",
+        "qty": 74700,
+        "uom": "PCS",
+        "unit_price": 2.35
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 175545.0,
+    "tax": {
+      "type": "IGST",
+      "rate": 18,
+      "amount": 31598.1,
+      "place_of_supply": "36",
+      "vendor_state": "37"
+    },
+    "total": 207143.1,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "IndusInd ••••4241",
+    "remarks": "IMPORTANT: Please note our bank account has changed. Remit to the new account mentioned on this invoice with immediate effect.",
+    "_truth": {
+      "exception_type": "bank_change",
+      "action": "verify_bank_change",
+      "decided_by": "Farhan Ali (Treasury)",
+      "note": "Bank-change request on invoice. Treasury did a call-back on the number in the vendor master (not the one on the letter). Vendor denied sending it: business-email-compromise attempt. Blocked; vendor alerted; IT security informed."
+    }
+  },
+  {
+    "invoice_id": "INV-26109",
+    "vendor_invoice_no": "DPL/0487",
+    "vendor_id": "V006",
+    "vendor_name": "Deccan Print & Labels",
+    "po_id": "PO-4203",
+    "invoice_date": "2026-10-30",
+    "received_at": "2026-10-30",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 114500,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 105340.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 18961.2,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 124301.2,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Kotak ••••8804",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26114",
+    "vendor_invoice_no": "CPC0819",
+    "vendor_id": "V012",
+    "vendor_name": "Charminar Pest Control",
+    "po_id": "PO-4208",
+    "invoice_date": "2026-10-30",
+    "received_at": "2026-10-30",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "description": "Monthly pest management (plant)",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 26500.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 26500.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 4770.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 31270.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Federal ••••2765",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26108",
+    "vendor_invoice_no": "NAC-0532",
+    "vendor_id": "V004",
+    "vendor_name": "Nizam Agro Commodities",
+    "po_id": "PO-4202",
+    "invoice_date": "2026-10-29",
+    "received_at": "2026-10-31",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 8500,
+        "uom": "KG",
+        "unit_price": 118.0
+      },
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 6300,
+        "uom": "KG",
+        "unit_price": 46.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 1292800.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 5,
+      "amount": 64640.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 1357440.0,
+    "currency": "INR",
+    "payment_terms": "Net 21",
+    "bank_account": "SBI ••••3120",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  },
+  {
+    "invoice_id": "INV-26112",
+    "vendor_invoice_no": "TE-0927",
+    "vendor_id": "V009",
+    "vendor_name": "Telangana Electricals",
+    "po_id": "PO-4206",
+    "invoice_date": "2026-10-30",
+    "received_at": "2026-10-31",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 11,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      },
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      }
+    ],
+    "extra_charges": [],
+    "subtotal": 60150.0,
+    "tax": {
+      "type": "CGST+SGST",
+      "rate": 18,
+      "amount": 10827.0,
+      "place_of_supply": "36",
+      "vendor_state": "36"
+    },
+    "total": 70977.0,
+    "currency": "INR",
+    "payment_terms": "Net 30",
+    "bank_account": "Canara ••••1188",
+    "remarks": "",
+    "_truth": {
+      "exception_type": null,
+      "action": "approve",
+      "decided_by": "Divya Reddy (AP Executive)",
+      "note": "Clean 3-way match."
+    }
+  }
+]

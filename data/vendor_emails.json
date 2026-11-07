@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2026-07-14",
+    "vendor_id": "V001",
+    "from": "accounts@shreebalajipack.example",
+    "subject": "Diesel surcharge per clause 7.2",
+    "body": "Dear Deccan Fresh team, as per clause 7.2 of our supply agreement, a diesel surcharge of up to 2.5% over PO price will be applied whenever HSD prices rise above Rs 92/litre. Any increase beyond this will be discussed with procurement in advance."
+  },
+  {
+    "date": "2026-07-22",
+    "vendor_id": "V004",
+    "from": "billing@nizamagro.example",
+    "subject": "Billing unit",
+    "body": "Our ERP raises all invoices in quintals. Kindly convert at 1 QTL = 100 KG for matching."
+  },
+  {
+    "date": "2026-07-29",
+    "vendor_id": "V008",
+    "from": "ar@vizagdrums.example",
+    "subject": "Cash discount offer",
+    "body": "We are extending 2% cash discount on all invoices paid within 10 days (2/10 Net 45)."
+  },
+  {
+    "date": "2026-08-11",
+    "vendor_id": "V003",
+    "from": "ops@krishnacold.example",
+    "subject": "Loading/handling",
+    "body": "Labour loading and handling for each pull is billed at actuals on the storage invoice."
+  },
+  {
+    "date": "2026-09-02",
+    "vendor_id": null,
+    "from": "it-security@deccanfresh.example",
+    "subject": "Advisory: invoice fraud in the region",
+    "body": "Several Hyderabad FMCG companies received fake 'change of bank account' letters this quarter. Never act on a bank change without a call-back to the number in the vendor master."
+  }
+]

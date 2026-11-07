@@ -1,0 +1,45 @@
+{
+  "company": {
+    "name": "Deccan Fresh Foods Pvt. Ltd.",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "state_code": "36",
+    "gstin": "36AADCD7712K1ZQ"
+  },
+  "approvers": {
+    "controller": "Ramesh Iyer (AP Controller)",
+    "clerk": "Divya Reddy (AP Executive)",
+    "procurement": "Priya Nair (Procurement Lead)",
+    "treasury": "Farhan Ali (Treasury)",
+    "tax": "Sneha Kulkarni (Indirect Tax)"
+  },
+  "rules": [
+    {
+      "id": "P1",
+      "text": "Price variance above 1% of PO unit price requires a documented reason."
+    },
+    {
+      "id": "P2",
+      "text": "Charges not on the PO require approval; procurement must amend the PO for large amounts."
+    },
+    {
+      "id": "P3",
+      "text": "Invoice must reference a valid PO and a posted GRN; pay only for received quantity."
+    },
+    {
+      "id": "P4",
+      "text": "GST type must match place of supply: intra-state CGST+SGST, inter-state IGST."
+    },
+    {
+      "id": "P5",
+      "text": "Bank account changes are NEVER auto-approved. Treasury must call back on the number already in the vendor master."
+    },
+    {
+      "id": "P6",
+      "text": "Duplicate invoices must be rejected, never paid twice."
+    }
+  ],
+  "auto_resolve_confidence": 0.75,
+  "manual_minutes_per_exception": 14,
+  "review_minutes_per_auto_resolution": 1.5
+}

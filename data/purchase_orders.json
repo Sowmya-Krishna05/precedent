@@ -1,0 +1,1972 @@
+[
+  {
+    "po_id": "PO-4101",
+    "vendor_id": "V001",
+    "date": "2026-07-25",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 1570,
+        "uom": "PCS",
+        "unit_price": 31.5
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4102",
+    "vendor_id": "V001",
+    "date": "2026-07-23",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 5600,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 3100,
+        "uom": "PCS",
+        "unit_price": 14.8
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4103",
+    "vendor_id": "V002",
+    "date": "2026-07-27",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 140,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      },
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 140,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4104",
+    "vendor_id": "V003",
+    "date": "2026-07-29",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 88,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 35,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4105",
+    "vendor_id": "V004",
+    "date": "2026-07-29",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 7300,
+        "uom": "KG",
+        "unit_price": 118.0
+      },
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 2100,
+        "uom": "KG",
+        "unit_price": 46.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4106",
+    "vendor_id": "V005",
+    "date": "2026-07-26",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 4600,
+        "uom": "KG",
+        "unit_price": 212.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4107",
+    "vendor_id": "V006",
+    "date": "2026-07-29",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 7000,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 130000,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4108",
+    "vendor_id": "V007",
+    "date": "2026-08-01",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "description": "DMS user seat (monthly)",
+        "qty": 29,
+        "uom": "SEAT",
+        "unit_price": 1450.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4109",
+    "vendor_id": "V008",
+    "date": "2026-07-25",
+    "lines": [
+      {
+        "sku": "CAN-20L",
+        "description": "Jerry can 20L",
+        "qty": 1080,
+        "uom": "PCS",
+        "unit_price": 188.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4110",
+    "vendor_id": "V009",
+    "date": "2026-07-31",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 5,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4111",
+    "vendor_id": "V011",
+    "date": "2026-07-29",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "description": "28mm flip cap",
+        "qty": 67700,
+        "uom": "PCS",
+        "unit_price": 0.61
+      },
+      {
+        "sku": "PET-PRF-28",
+        "description": "PET preform 28mm",
+        "qty": 114300,
+        "uom": "PCS",
+        "unit_price": 2.35
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4112",
+    "vendor_id": "V012",
+    "date": "2026-07-28",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "description": "Monthly pest management (plant)",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 26500.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4113",
+    "vendor_id": "V001",
+    "date": "2026-07-30",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 5400,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 5200,
+        "uom": "PCS",
+        "unit_price": 6.2
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4114",
+    "vendor_id": "V003",
+    "date": "2026-08-05",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 85,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4115",
+    "vendor_id": "V004",
+    "date": "2026-08-02",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 6400,
+        "uom": "KG",
+        "unit_price": 118.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4116",
+    "vendor_id": "V005",
+    "date": "2026-08-05",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 7100,
+        "uom": "KG",
+        "unit_price": 212.0
+      },
+      {
+        "sku": "TURM-FNG",
+        "description": "Turmeric fingers",
+        "qty": 8700,
+        "uom": "KG",
+        "unit_price": 136.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4117",
+    "vendor_id": "V006",
+    "date": "2026-08-06",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 5100,
+        "uom": "KG",
+        "unit_price": 268.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4118",
+    "vendor_id": "V010",
+    "date": "2026-08-03",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "description": "Housekeeping staff-month",
+        "qty": 10,
+        "uom": "STAFF-MO",
+        "unit_price": 18500.0
+      },
+      {
+        "sku": "SEC-GUARD",
+        "description": "Security guard-month",
+        "qty": 14,
+        "uom": "STAFF-MO",
+        "unit_price": 21000.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4119",
+    "vendor_id": "V001",
+    "date": "2026-08-06",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 5700,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 3500,
+        "uom": "PCS",
+        "unit_price": 6.2
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4120",
+    "vendor_id": "V002",
+    "date": "2026-08-08",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 150,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4121",
+    "vendor_id": "V003",
+    "date": "2026-08-10",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 80,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4122",
+    "vendor_id": "V004",
+    "date": "2026-08-12",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 7300,
+        "uom": "KG",
+        "unit_price": 46.0
+      },
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 4100,
+        "uom": "KG",
+        "unit_price": 118.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4123",
+    "vendor_id": "V006",
+    "date": "2026-08-13",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 3500,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 118900,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4124",
+    "vendor_id": "V008",
+    "date": "2026-08-08",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "description": "HDPE drum 50L",
+        "qty": 270,
+        "uom": "PCS",
+        "unit_price": 545.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4125",
+    "vendor_id": "V009",
+    "date": "2026-08-10",
+    "lines": [
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4126",
+    "vendor_id": "V011",
+    "date": "2026-08-10",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "description": "28mm flip cap",
+        "qty": 103600,
+        "uom": "PCS",
+        "unit_price": 0.61
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4127",
+    "vendor_id": "V001",
+    "date": "2026-08-13",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 4100,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 2400,
+        "uom": "PCS",
+        "unit_price": 14.8
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4128",
+    "vendor_id": "V001",
+    "date": "2026-08-15",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 1610,
+        "uom": "PCS",
+        "unit_price": 6.2
+      },
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 1300,
+        "uom": "PCS",
+        "unit_price": 31.5
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4129",
+    "vendor_id": "V003",
+    "date": "2026-08-18",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 88,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4130",
+    "vendor_id": "V004",
+    "date": "2026-08-18",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 5100,
+        "uom": "KG",
+        "unit_price": 46.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4131",
+    "vendor_id": "V005",
+    "date": "2026-08-16",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 2300,
+        "uom": "KG",
+        "unit_price": 212.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4132",
+    "vendor_id": "V006",
+    "date": "2026-08-19",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 3300,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 165100,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4133",
+    "vendor_id": "V010",
+    "date": "2026-08-20",
+    "lines": [
+      {
+        "sku": "SEC-GUARD",
+        "description": "Security guard-month",
+        "qty": 10,
+        "uom": "STAFF-MO",
+        "unit_price": 21000.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4134",
+    "vendor_id": "V001",
+    "date": "2026-08-21",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 2100,
+        "uom": "PCS",
+        "unit_price": 6.2
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 2400,
+        "uom": "PCS",
+        "unit_price": 14.8
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4135",
+    "vendor_id": "V002",
+    "date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 94,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4136",
+    "vendor_id": "V003",
+    "date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 43,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4137",
+    "vendor_id": "V004",
+    "date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 6200,
+        "uom": "KG",
+        "unit_price": 46.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4138",
+    "vendor_id": "V006",
+    "date": "2026-08-28",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 7000,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 142400,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4139",
+    "vendor_id": "V007",
+    "date": "2026-08-29",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "description": "DMS user seat (monthly)",
+        "qty": 38,
+        "uom": "SEAT",
+        "unit_price": 1450.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4140",
+    "vendor_id": "V008",
+    "date": "2026-08-21",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "description": "HDPE drum 50L",
+        "qty": 750,
+        "uom": "PCS",
+        "unit_price": 545.0
+      },
+      {
+        "sku": "CAN-20L",
+        "description": "Jerry can 20L",
+        "qty": 740,
+        "uom": "PCS",
+        "unit_price": 188.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4141",
+    "vendor_id": "V009",
+    "date": "2026-08-25",
+    "lines": [
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      },
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 13,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4142",
+    "vendor_id": "V011",
+    "date": "2026-08-28",
+    "lines": [
+      {
+        "sku": "PET-PRF-28",
+        "description": "PET preform 28mm",
+        "qty": 53600,
+        "uom": "PCS",
+        "unit_price": 2.35
+      },
+      {
+        "sku": "CAP-28",
+        "description": "28mm flip cap",
+        "qty": 57600,
+        "uom": "PCS",
+        "unit_price": 0.61
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4143",
+    "vendor_id": "V012",
+    "date": "2026-08-28",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "description": "Monthly pest management (plant)",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 26500.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4144",
+    "vendor_id": "V001",
+    "date": "2026-08-27",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 4900,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 4800,
+        "uom": "PCS",
+        "unit_price": 14.8
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4145",
+    "vendor_id": "V002",
+    "date": "2026-08-31",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 82,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      },
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 110,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4146",
+    "vendor_id": "V003",
+    "date": "2026-09-03",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 29,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 39,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4147",
+    "vendor_id": "V004",
+    "date": "2026-09-02",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 2500,
+        "uom": "KG",
+        "unit_price": 118.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4148",
+    "vendor_id": "V005",
+    "date": "2026-09-01",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 7000,
+        "uom": "KG",
+        "unit_price": 212.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4149",
+    "vendor_id": "V006",
+    "date": "2026-09-04",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 102600,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4150",
+    "vendor_id": "V010",
+    "date": "2026-09-03",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "description": "Housekeeping staff-month",
+        "qty": 11,
+        "uom": "STAFF-MO",
+        "unit_price": 18500.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4151",
+    "vendor_id": "V001",
+    "date": "2026-09-03",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 3900,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 1120,
+        "uom": "PCS",
+        "unit_price": 6.2
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4152",
+    "vendor_id": "V001",
+    "date": "2026-09-05",
+    "lines": [
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 2600,
+        "uom": "PCS",
+        "unit_price": 14.8
+      },
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 990,
+        "uom": "PCS",
+        "unit_price": 31.5
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4153",
+    "vendor_id": "V002",
+    "date": "2026-09-06",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 87,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      },
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 54,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4154",
+    "vendor_id": "V003",
+    "date": "2026-09-11",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 75,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 64,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4155",
+    "vendor_id": "V004",
+    "date": "2026-09-09",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 8900,
+        "uom": "KG",
+        "unit_price": 118.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4156",
+    "vendor_id": "V006",
+    "date": "2026-09-11",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 155500,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4157",
+    "vendor_id": "V008",
+    "date": "2026-09-06",
+    "lines": [
+      {
+        "sku": "CAN-20L",
+        "description": "Jerry can 20L",
+        "qty": 1340,
+        "uom": "PCS",
+        "unit_price": 188.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4158",
+    "vendor_id": "V009",
+    "date": "2026-09-10",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 8,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      },
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4159",
+    "vendor_id": "V011",
+    "date": "2026-09-08",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "description": "28mm flip cap",
+        "qty": 79800,
+        "uom": "PCS",
+        "unit_price": 0.61
+      },
+      {
+        "sku": "PET-PRF-28",
+        "description": "PET preform 28mm",
+        "qty": 77600,
+        "uom": "PCS",
+        "unit_price": 2.35
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4160",
+    "vendor_id": "V001",
+    "date": "2026-09-13",
+    "lines": [
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 4400,
+        "uom": "PCS",
+        "unit_price": 14.8
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 2600,
+        "uom": "PCS",
+        "unit_price": 6.2
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4161",
+    "vendor_id": "V003",
+    "date": "2026-09-15",
+    "lines": [
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 85,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4162",
+    "vendor_id": "V004",
+    "date": "2026-09-14",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 2700,
+        "uom": "KG",
+        "unit_price": 46.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4163",
+    "vendor_id": "V005",
+    "date": "2026-09-17",
+    "lines": [
+      {
+        "sku": "TURM-FNG",
+        "description": "Turmeric fingers",
+        "qty": 4900,
+        "uom": "KG",
+        "unit_price": 136.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4164",
+    "vendor_id": "V006",
+    "date": "2026-09-18",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 2700,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 61500,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4165",
+    "vendor_id": "V010",
+    "date": "2026-09-17",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "description": "Housekeeping staff-month",
+        "qty": 14,
+        "uom": "STAFF-MO",
+        "unit_price": 18500.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4166",
+    "vendor_id": "V001",
+    "date": "2026-09-20",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 4500,
+        "uom": "PCS",
+        "unit_price": 31.5
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4167",
+    "vendor_id": "V002",
+    "date": "2026-09-22",
+    "lines": [
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 220,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      },
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 97,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4168",
+    "vendor_id": "V003",
+    "date": "2026-09-24",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 86,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 82,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4169",
+    "vendor_id": "V004",
+    "date": "2026-09-21",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 4300,
+        "uom": "KG",
+        "unit_price": 118.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4170",
+    "vendor_id": "V006",
+    "date": "2026-09-23",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 160400,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4171",
+    "vendor_id": "V007",
+    "date": "2026-09-26",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "description": "DMS user seat (monthly)",
+        "qty": 37,
+        "uom": "SEAT",
+        "unit_price": 1450.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4172",
+    "vendor_id": "V008",
+    "date": "2026-09-21",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "description": "HDPE drum 50L",
+        "qty": 630,
+        "uom": "PCS",
+        "unit_price": 545.0
+      },
+      {
+        "sku": "CAN-20L",
+        "description": "Jerry can 20L",
+        "qty": 1100,
+        "uom": "PCS",
+        "unit_price": 188.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4173",
+    "vendor_id": "V009",
+    "date": "2026-09-21",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 15,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      },
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4174",
+    "vendor_id": "V011",
+    "date": "2026-09-24",
+    "lines": [
+      {
+        "sku": "CAP-28",
+        "description": "28mm flip cap",
+        "qty": 68800,
+        "uom": "PCS",
+        "unit_price": 0.61
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4175",
+    "vendor_id": "V012",
+    "date": "2026-09-24",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "description": "Monthly pest management (plant)",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 26500.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4176",
+    "vendor_id": "V001",
+    "date": "2026-09-26",
+    "lines": [
+      {
+        "sku": "BOX-3PLY-M",
+        "description": "3-ply carton 12x10x8",
+        "qty": 1840,
+        "uom": "PCS",
+        "unit_price": 14.8
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4177",
+    "vendor_id": "V001",
+    "date": "2026-09-26",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 4300,
+        "uom": "PCS",
+        "unit_price": 31.5
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4178",
+    "vendor_id": "V002",
+    "date": "2026-09-28",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 81,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      },
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 170,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4179",
+    "vendor_id": "V003",
+    "date": "2026-10-01",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 22,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 89,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4180",
+    "vendor_id": "V004",
+    "date": "2026-09-26",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 3500,
+        "uom": "KG",
+        "unit_price": 46.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4181",
+    "vendor_id": "V005",
+    "date": "2026-09-28",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 5400,
+        "uom": "KG",
+        "unit_price": 212.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4182",
+    "vendor_id": "V006",
+    "date": "2026-10-02",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 6500,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 90000,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4183",
+    "vendor_id": "V010",
+    "date": "2026-09-30",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "description": "Housekeeping staff-month",
+        "qty": 10,
+        "uom": "STAFF-MO",
+        "unit_price": 18500.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4184",
+    "vendor_id": "V001",
+    "date": "2026-10-01",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 5900,
+        "uom": "PCS",
+        "unit_price": 6.2
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4185",
+    "vendor_id": "V002",
+    "date": "2026-10-06",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 84,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4186",
+    "vendor_id": "V003",
+    "date": "2026-10-07",
+    "lines": [
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 82,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4187",
+    "vendor_id": "V004",
+    "date": "2026-10-04",
+    "lines": [
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 6500,
+        "uom": "KG",
+        "unit_price": 46.0
+      },
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 8100,
+        "uom": "KG",
+        "unit_price": 118.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4188",
+    "vendor_id": "V006",
+    "date": "2026-10-09",
+    "lines": [
+      {
+        "sku": "FILM-LAM",
+        "description": "Laminated pouch film",
+        "qty": 8500,
+        "uom": "KG",
+        "unit_price": 268.0
+      },
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 124400,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4189",
+    "vendor_id": "V008",
+    "date": "2026-10-05",
+    "lines": [
+      {
+        "sku": "CAN-20L",
+        "description": "Jerry can 20L",
+        "qty": 1310,
+        "uom": "PCS",
+        "unit_price": 188.0
+      },
+      {
+        "sku": "DRUM-50L",
+        "description": "HDPE drum 50L",
+        "qty": 530,
+        "uom": "PCS",
+        "unit_price": 545.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4190",
+    "vendor_id": "V009",
+    "date": "2026-10-06",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 12,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      },
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4191",
+    "vendor_id": "V011",
+    "date": "2026-10-09",
+    "lines": [
+      {
+        "sku": "PET-PRF-28",
+        "description": "PET preform 28mm",
+        "qty": 71600,
+        "uom": "PCS",
+        "unit_price": 2.35
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4192",
+    "vendor_id": "V001",
+    "date": "2026-10-10",
+    "lines": [
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 4700,
+        "uom": "PCS",
+        "unit_price": 6.2
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4193",
+    "vendor_id": "V003",
+    "date": "2026-10-12",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 51,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 59,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4194",
+    "vendor_id": "V004",
+    "date": "2026-10-14",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 4400,
+        "uom": "KG",
+        "unit_price": 118.0
+      },
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 7300,
+        "uom": "KG",
+        "unit_price": 46.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4195",
+    "vendor_id": "V005",
+    "date": "2026-10-12",
+    "lines": [
+      {
+        "sku": "CHL-TEJA",
+        "description": "Teja dry chilli S17",
+        "qty": 4100,
+        "uom": "KG",
+        "unit_price": 212.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4196",
+    "vendor_id": "V006",
+    "date": "2026-10-14",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 186900,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4197",
+    "vendor_id": "V010",
+    "date": "2026-10-14",
+    "lines": [
+      {
+        "sku": "HK-STAFF",
+        "description": "Housekeeping staff-month",
+        "qty": 10,
+        "uom": "STAFF-MO",
+        "unit_price": 18500.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4198",
+    "vendor_id": "V001",
+    "date": "2026-10-15",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 3000,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 1170,
+        "uom": "PCS",
+        "unit_price": 6.2
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4199",
+    "vendor_id": "V001",
+    "date": "2026-10-15",
+    "lines": [
+      {
+        "sku": "BOX-5PLY-L",
+        "description": "5-ply carton 18x12x10",
+        "qty": 5500,
+        "uom": "PCS",
+        "unit_price": 31.5
+      },
+      {
+        "sku": "PART-DIV",
+        "description": "Carton partition set",
+        "qty": 3100,
+        "uom": "PCS",
+        "unit_price": 6.2
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4200",
+    "vendor_id": "V002",
+    "date": "2026-10-18",
+    "lines": [
+      {
+        "sku": "PAL-HDPE",
+        "description": "HDPE pallet 1200x1000",
+        "qty": 91,
+        "uom": "PCS",
+        "unit_price": 2850.0
+      },
+      {
+        "sku": "PAL-WOOD",
+        "description": "Heat-treated wooden pallet",
+        "qty": 200,
+        "uom": "PCS",
+        "unit_price": 1325.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4201",
+    "vendor_id": "V003",
+    "date": "2026-10-20",
+    "lines": [
+      {
+        "sku": "CS-PALLET-WK",
+        "description": "Chilled storage, per pallet-week",
+        "qty": 35,
+        "uom": "PLT-WK",
+        "unit_price": 640.0
+      },
+      {
+        "sku": "CS-FROZEN-WK",
+        "description": "Frozen storage, per pallet-week",
+        "qty": 73,
+        "uom": "PLT-WK",
+        "unit_price": 910.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4202",
+    "vendor_id": "V004",
+    "date": "2026-10-20",
+    "lines": [
+      {
+        "sku": "DAL-TOOR",
+        "description": "Toor dal (unpolished)",
+        "qty": 8500,
+        "uom": "KG",
+        "unit_price": 118.0
+      },
+      {
+        "sku": "RICE-SONA",
+        "description": "Sona Masoori rice (raw)",
+        "qty": 6300,
+        "uom": "KG",
+        "unit_price": 46.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4203",
+    "vendor_id": "V006",
+    "date": "2026-10-24",
+    "lines": [
+      {
+        "sku": "LBL-BOPP",
+        "description": "BOPP wrap-around label",
+        "qty": 114500,
+        "uom": "PCS",
+        "unit_price": 0.92
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4204",
+    "vendor_id": "V007",
+    "date": "2026-10-24",
+    "lines": [
+      {
+        "sku": "DMS-SEAT",
+        "description": "DMS user seat (monthly)",
+        "qty": 26,
+        "uom": "SEAT",
+        "unit_price": 1450.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4205",
+    "vendor_id": "V008",
+    "date": "2026-10-17",
+    "lines": [
+      {
+        "sku": "DRUM-50L",
+        "description": "HDPE drum 50L",
+        "qty": 200,
+        "uom": "PCS",
+        "unit_price": 545.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4206",
+    "vendor_id": "V009",
+    "date": "2026-10-23",
+    "lines": [
+      {
+        "sku": "MCB-REPL",
+        "description": "MCB/RCCB replacement",
+        "qty": 11,
+        "uom": "PCS",
+        "unit_price": 1650.0
+      },
+      {
+        "sku": "AMC-ELEC",
+        "description": "Monthly electrical AMC",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 42000.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4207",
+    "vendor_id": "V011",
+    "date": "2026-10-22",
+    "lines": [
+      {
+        "sku": "PET-PRF-28",
+        "description": "PET preform 28mm",
+        "qty": 74700,
+        "uom": "PCS",
+        "unit_price": 2.35
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  },
+  {
+    "po_id": "PO-4208",
+    "vendor_id": "V012",
+    "date": "2026-10-23",
+    "lines": [
+      {
+        "sku": "PEST-MONTH",
+        "description": "Monthly pest management (plant)",
+        "qty": 1,
+        "uom": "MONTH",
+        "unit_price": 26500.0
+      }
+    ],
+    "buyer": "Priya Nair (Procurement Lead)"
+  }
+]
